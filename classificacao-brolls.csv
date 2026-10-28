@@ -10,7 +10,7 @@ pagina_original,video_id,pasta,subpasta,descricao
 9,VAGP424qbi4,"11 Fundos, Texturas e Still Life",,"sombra de folhas com bokeh, mão"
 10,VAEVBeDZNM4,03 Casa e Aconchego,"Janelas, Cortinas e Luz Natural",mulher na janela segurando caneca
 11,VAEZlHdVgys,03 Casa e Aconchego,"Flores, Arranjos e Vasos","capim seco em vaso, vela acesa (decoração)"
-12,VAFbEW-tYak,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)","penteadeira e cadeira, luz quente"
+12,VAFbEW-tYak,09 Poltronas e Cadeiras,,"penteadeira e cadeira, luz quente"
 13,VAFMQrDBL1c,12 Bem-estar e Autocuidado,,mão com cápsulas (saúde/suplementos)
 14,VAESJOAwINY,06 Pessoas,"Emoções, Cansaço e Introspecção",pessoa encolhida de suéter (ansiedade/tristeza)
 15,VAGTHzvpsjs,04 Trabalho e Estudo,Celular e Redes Sociais,mulher segurando celular
@@ -20,7 +20,7 @@ pagina_original,video_id,pasta,subpasta,descricao
 19,VAGrms4biUQ,01 Natureza,Pôr do Sol e Céu,céu com nuvens visto pela janela
 20,VAEd1waMZ_Q,03 Casa e Aconchego,"Flores, Arranjos e Vasos",mão segurando copo-de-leite com sombra
 21,VAGrmo0r0jA,"11 Fundos, Texturas e Still Life",,"sombra de palmeira em parede boiserie, cadernos"
-22,VAEZoPxtl7s,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)","mesa de jantar, cadeira e vaso"
+22,VAEZoPxtl7s,09 Poltronas e Cadeiras,,"mesa de jantar, cadeira e vaso"
 23,VAEXMBdBx6I,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",mesa posta com pratos (minimal)
 24,VAEYq9YLzqg,10 Tempo e Conceitos,,relógio sobre revistas em banquinho
 25,VAEoyV1txDI,"11 Fundos, Texturas e Still Life",,sombra de planta em parede rosa
@@ -38,7 +38,7 @@ pagina_original,video_id,pasta,subpasta,descricao
 37,VAGnFHdzcr4,06 Pessoas,"Emoções, Cansaço e Introspecção",pessoa de suéter branco com mão no rosto (cansaço)
 38,VAGZc9cx12A,01 Natureza,Folhas e Flores Close,"folhas de ficus, fundo branco"
 39,VAEgRb2kjsU,06 Pessoas,Mãos e Gestos,braços e mãos cruzados (gesto delicado)
-40,VAEWzORYzEs,03 Casa e Aconchego,"Janelas, Cortinas e Luz Natural",sombra de galho florido em tecido
+40,VAEWzORYzEs,"11 Fundos, Texturas e Still Life",,sombra de galho florido em tecido
 41,VAGUKnM9PME,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",sala com sofá caramelo e quadro
 42,VAGUKqPzJY0,03 Casa e Aconchego,"Flores, Arranjos e Vasos","flores do campo em arranjo, luz suave"
 43,VAGnFWD_szo,05 Terapia e Consultório,,terapeuta idosa anotando em prancheta
@@ -156,9 +156,9 @@ pagina_original,video_id,pasta,subpasta,descricao
 155,VAGlk-3mAsU,01 Natureza,"Campos, Trigo e Capim",capim na praia ao entardecer
 156,VAGlk2bUG50,01 Natureza,Pôr do Sol e Céu,pôr do sol rosado sobre mar com barco
 157,VAGmzU_SzQg,01 Natureza,Mar e Praia,água rasa transparente com reflexo de sol
-158,VAGmzS6EC9E,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",poltrona bouclé e vaso com eucalipto seco
+158,VAGmzS6EC9E,09 Poltronas e Cadeiras,,poltrona bouclé e vaso com eucalipto seco
 159,VAGmzXgcrVo,01 Natureza,Folhas e Flores Close,papoulas close
-160,VAGmzS88bAk,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",poltrona e mesa com café diante de janela com campo
+160,VAGmzS88bAk,09 Poltronas e Cadeiras,,poltrona e mesa com café diante de janela com campo
 161,VAGmzSjO2fw,03 Casa e Aconchego,Chá e Café,mão pegando caneca sobre livros em cadeira
 162,VAGmzdm4XLY,06 Pessoas,De Costas e Silhuetas,homem de costas na pedra olhando mar ao entardecer
 163,VAGmzci8M0U,06 Pessoas,De Costas e Silhuetas,"pessoa de sobretudo de costas no píer, mar"
@@ -169,15 +169,15 @@ pagina_original,video_id,pasta,subpasta,descricao
 168,VAGmzTR_u6o,01 Natureza,Pôr do Sol e Céu,pôr do sol dramático no mar com barco
 169,VAGmzTtL5Oo,04 Trabalho e Estudo,"Escrita, Caderno e Planner",mão escrevendo em caderno
 170,VAGmzo0K9Rg,07 Leitura,,mulher lendo livro em poltrona amarela
-171,VAGmzZVpFP4,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)","poltronas verdes e espelho, piso de madeira"
+171,VAGmzZVpFP4,09 Poltronas e Cadeiras,,"poltronas verdes e espelho, piso de madeira"
 172,VAGmzZPnv98,01 Natureza,"Lagos, Rios e Cachoeiras",lago com vitórias-régias e chuva
 173,VAGmzeTO9xA,12 Bem-estar e Autocuidado,,incenso com fumaça
 174,VAGmzcjNZzA,07 Leitura,,"livro aberto e óculos na mesa, janela"
 175,VAGmzckCn74,01 Natureza,"Florestas, Árvores e Trilhas",céu azul entre copas de árvores
-176,VAGmzZXtxRc,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",sala com poltrona cinza e quadro abstrato terracota
+176,VAGmzZXtxRc,09 Poltronas e Cadeiras,,sala com poltrona cinza e quadro abstrato terracota
 177,VAGmzZpd_iI,01 Natureza,Mar e Praia,mar P&B com ondas chegando na areia
 178,VAGmzQHUUK8,01 Natureza,Mar e Praia,mar escuro à noite com luzes bokeh
-179,VAGmzRtKg28,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",mesa e cadeira com vaso de eucalipto
+179,VAGmzRtKg28,09 Poltronas e Cadeiras,,mesa e cadeira com vaso de eucalipto
 180,VAGmze0J0h8,04 Trabalho e Estudo,Home Office e Notebook,dedo no notebook com caneca branca
 181,VAGmzXq4jnU,"11 Fundos, Texturas e Still Life",,still life de blocos de madeira em equilíbrio
 182,VAGmzZ1Gq4Y,01 Natureza,"Lagos, Rios e Cachoeiras",juncos no lago com flores brancas
@@ -206,7 +206,7 @@ pagina_original,video_id,pasta,subpasta,descricao
 205,VAGmzmWbl9M,01 Natureza,Mar e Praia,beira-mar com ondas suaves na areia
 206,VAGmzuSUK88,04 Trabalho e Estudo,Home Office e Notebook,mesa com notebook diante de janela para floresta
 207,VAGmznhxGRo,03 Casa e Aconchego,"Velas, Mantas e Momentos Cozy","vela acesa, caneca e livros"
-208,VAGmzk6IeLE,03 Casa e Aconchego,"Janelas, Cortinas e Luz Natural",cortina voil branca ao vento com poltrona
+208,VAGmzk6IeLE,09 Poltronas e Cadeiras,,cortina voil branca ao vento com poltrona
 209,VAGmziJUHHI,06 Pessoas,Liberdade e Viagem,carro no alto do morro ao pôr do sol sobre o mar
 210,VAGmzldk4PY,01 Natureza,Folhas e Flores Close,flores brancas de macieira close
 211,VAGmziKXbMo,02 Chuva e Clima,,arco-íris sobre árvores
@@ -241,7 +241,7 @@ pagina_original,video_id,pasta,subpasta,descricao
 240,VAGmaU1CYoo,06 Pessoas,Mãos e Gestos,mão de mulher apoiada em cadeira de palhinha
 241,VAGmabDi1CM,01 Natureza,"Lagos, Rios e Cachoeiras",barcos a remo no rio (vista aérea)
 242,VAGmaR6w_50,01 Natureza,"Campos, Trigo e Capim",mulher de costas caminhando no campo de capim
-243,VAGmadInkkc,06 Pessoas,Mãos e Gestos,pés na água
+243,VAGmadInkkc,06 Pessoas,Pés,pés na água
 244,VAGmadrgJFI,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",mão arrumando objetos decorativos (vaso e escultura)
 245,VAGmadBAC-U,08 Cidade e Urbano,,cidade ao longe com névoa sobre o rio
 246,VAGmaTYVxRY,06 Pessoas,De Costas e Silhuetas,silhueta de homem de costas olhando o mar ao entardecer
@@ -286,7 +286,7 @@ pagina_original,video_id,pasta,subpasta,descricao
 285,VAGmac-6nlE,12 Bem-estar e Autocuidado,,"flor em redoma de vidro, alquimia/aromaterapia"
 286,VAGmab5TGM8,01 Natureza,Mar e Praia,água cristalina com rochas
 287,VAGmaVNsVQM,03 Casa e Aconchego,Chá e Café,mexendo chá em caneca azul
-288,VAGmacixvRA,06 Pessoas,Liberdade e Viagem,pés de sandália andando na areia
+288,VAGmacixvRA,06 Pessoas,Pés,pés de sandália andando na areia
 289,VAGmafdUWjc,03 Casa e Aconchego,"Flores, Arranjos e Vasos",mão segurando narcisos brancos
 290,VAGmaUncgv4,01 Natureza,Mar e Praia,mar azul batendo nas rochas
 291,VAGmaUuJLrI,"11 Fundos, Texturas e Still Life",,sombra de galho florido em tecido
@@ -309,7 +309,7 @@ pagina_original,video_id,pasta,subpasta,descricao
 308,VAGmaQVCk1w,06 Pessoas,Mãos e Gestos,mãos com luz de arco-íris na parede
 309,VAGmbR6_6jY,"11 Fundos, Texturas e Still Life",,porta-pincéis e cartão em branco (mockup)
 310,VAGmabdpW7g,03 Casa e Aconchego,"Velas, Mantas e Momentos Cozy",cama com lençóis de linho cinza e bandeja
-311,VAGmaUBvaMQ,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",mulher caminhando em sala com cadeiras de design
+311,VAGmaUBvaMQ,09 Poltronas e Cadeiras,,mulher caminhando em sala com cadeiras de design
 312,VAGmaRbkioU,01 Natureza,Pôr do Sol e Céu,pessoas no mar ao pôr do sol
 313,VAGqLrj5lxM,06 Pessoas,Liberdade e Viagem,mulher caminhando em passarela de madeira à beira-mar
 314,VAGqLqS16XQ,07 Leitura,,mãos segurando livro aberto
@@ -366,7 +366,7 @@ pagina_original,video_id,pasta,subpasta,descricao
 365,VAFoWN-SFkI,02 Chuva e Clima,,chá na janela com chuva na cidade
 366,VAG_ecBohTo,03 Casa e Aconchego,Chá e Café,mexendo café com leite em xícara
 367,VAE7moJWG7s,03 Casa e Aconchego,Chá e Café,café sobre livro com folhas de oliveira
-368,VAHFO841GLI,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",poltrona e lareira de tijolos brancos
+368,VAHFO841GLI,09 Poltronas e Cadeiras,,poltrona e lareira de tijolos brancos
 369,VAEZoLdfUuE,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)","sala com TV, capim-dos-pampas e almofada"
 370,VAEjCuIh_iw,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",cozinha com tábuas e plantas
 371,VAGmHHfx5ek,04 Trabalho e Estudo,Escritório e Corporativo,escritório com mesas e luminárias
@@ -405,7 +405,7 @@ pagina_original,video_id,pasta,subpasta,descricao
 404,VAG-K4nDS14,08 Cidade e Urbano,,cidade iluminada à noite vista do alto
 405,VAHSZS-UA8o,02 Chuva e Clima,,chuva na rua molhada ao anoitecer
 406,VAHYFnNCe6Q,01 Natureza,Outono,parque ao entardecer com folhas de outono
-407,VAHJXUl5070,01 Natureza,Mar e Praia,mulher de chapéu caminhando na areia deixando pegadas
+407,VAHJXUl5070,06 Pessoas,Pés,mulher de chapéu caminhando na areia deixando pegadas
 408,VAG3bQon5ow,06 Pessoas,De Costas e Silhuetas,pessoa no fim da passarela de madeira no lago ao entardecer
 409,VAGHr4QdpIY,01 Natureza,"Florestas, Árvores e Trilhas",trilha asfaltada na floresta
 410,VAG70x1TGow,06 Pessoas,De Costas e Silhuetas,silhueta de pessoa de costas contra o sol no lago
@@ -421,26 +421,26 @@ pagina_original,video_id,pasta,subpasta,descricao
 420,VAHD0blqa3k,02 Chuva e Clima,,gotas de chuva em poça
 421,VAHGqODyEqI,02 Chuva e Clima,,chuva caindo em folhas verdes
 422,VAGbE-zGmeg,07 Leitura,,mulher lendo com chá e narcisos
-423,VAEZoIWJ5VE,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",sala com poltrona cinza e escada de vidro
-424,VAEZoEGHtr4,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",cadeira de design e mesa
-425,VAGZdMfu5iM,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",poltrona verde diante de cortina
-426,VAHFJZoFvfw,09 Móveis e Cenários 3D,,poltrona laranja com sombra de folhas (3D)
-427,VAGO07YyhiU,09 Móveis e Cenários 3D,,duas poltronas cinza com sombra de palmeira (3D)
-428,VAHEd1zgZuk,09 Móveis e Cenários 3D,,poltrona azul de madeira com manta (3D)
-429,VAHEd-Ru9DM,09 Móveis e Cenários 3D,,poltrona verde de vime com almofada (3D)
-430,VAGv1TNTQPc,09 Móveis e Cenários 3D,,"poltrona marrom e mesinha, parede clara (3D)"
-431,VAGv1fzF-4U,09 Móveis e Cenários 3D,,poltrona de madeira cinza e mesinha (3D)
-432,VAGv1cOdRgM,09 Móveis e Cenários 3D,,poltrona cinza e mesinha com sombra (3D)
-433,VAGv1ZpNE1k,09 Móveis e Cenários 3D,,poltrona com almofada azul e velas (3D)
-434,VAGw6_KyOhc,09 Móveis e Cenários 3D,,poltrona de madeira clara e mesinha (3D)
-435,VAGw6_jXth8,09 Móveis e Cenários 3D,,"poltrona de couro com planta, parede de concreto (3D)"
-436,VAGw6yMDzRY,09 Móveis e Cenários 3D,,sofá cinza e mesa de centro com sombra (3D)
-437,VAGw62EEvSk,09 Móveis e Cenários 3D,,poltrona verde em parede de tijolos (3D)
-438,VAGw64rQMgc,09 Móveis e Cenários 3D,,poltrona caramelo com mesinha verde (3D)
-439,VAHLKdCwFHw,06 Pessoas,De Costas e Silhuetas,pés descalços no chão com luz e sombra
-440,VAHFJd3SFHc,09 Móveis e Cenários 3D,,cadeira de madeira estofada (3D)
-441,VAHFJf-9Wcw,09 Móveis e Cenários 3D,,cadeira de madeira vista de cima (3D)
-442,VAHFJaam2DU,09 Móveis e Cenários 3D,,cadeira de madeira com sombra de folhas (3D)
+423,VAEZoIWJ5VE,09 Poltronas e Cadeiras,,sala com poltrona cinza e escada de vidro
+424,VAEZoEGHtr4,09 Poltronas e Cadeiras,,cadeira de design e mesa
+425,VAGZdMfu5iM,09 Poltronas e Cadeiras,,poltrona verde diante de cortina
+426,VAHFJZoFvfw,09 Poltronas e Cadeiras,,poltrona laranja com sombra de folhas (3D)
+427,VAGO07YyhiU,09 Poltronas e Cadeiras,,duas poltronas cinza com sombra de palmeira (3D)
+428,VAHEd1zgZuk,09 Poltronas e Cadeiras,,poltrona azul de madeira com manta (3D)
+429,VAHEd-Ru9DM,09 Poltronas e Cadeiras,,poltrona verde de vime com almofada (3D)
+430,VAGv1TNTQPc,09 Poltronas e Cadeiras,,"poltrona marrom e mesinha, parede clara (3D)"
+431,VAGv1fzF-4U,09 Poltronas e Cadeiras,,poltrona de madeira cinza e mesinha (3D)
+432,VAGv1cOdRgM,09 Poltronas e Cadeiras,,poltrona cinza e mesinha com sombra (3D)
+433,VAGv1ZpNE1k,09 Poltronas e Cadeiras,,poltrona com almofada azul e velas (3D)
+434,VAGw6_KyOhc,09 Poltronas e Cadeiras,,poltrona de madeira clara e mesinha (3D)
+435,VAGw6_jXth8,09 Poltronas e Cadeiras,,"poltrona de couro com planta, parede de concreto (3D)"
+436,VAGw6yMDzRY,09 Poltronas e Cadeiras,,sofá cinza e mesa de centro com sombra (3D)
+437,VAGw62EEvSk,09 Poltronas e Cadeiras,,poltrona verde em parede de tijolos (3D)
+438,VAGw64rQMgc,09 Poltronas e Cadeiras,,poltrona caramelo com mesinha verde (3D)
+439,VAHLKdCwFHw,06 Pessoas,Pés,pés descalços no chão com luz e sombra
+440,VAHFJd3SFHc,09 Poltronas e Cadeiras,,cadeira de madeira estofada (3D)
+441,VAHFJf-9Wcw,09 Poltronas e Cadeiras,,cadeira de madeira vista de cima (3D)
+442,VAHFJaam2DU,09 Poltronas e Cadeiras,,cadeira de madeira com sombra de folhas (3D)
 443,VAEWk22ID0o,05 Terapia e Consultório,,mulher sentada ajeitando o cabelo (consulta)
 444,VAEZlLxGaFI,05 Terapia e Consultório,,"sessão de terapia, mãos e anotações"
 445,VAHJjunUDgc,06 Pessoas,Mãos e Gestos,mãos entrelaçadas com luz da janela
@@ -454,8 +454,8 @@ pagina_original,video_id,pasta,subpasta,descricao
 453,VAHAxEppBTQ,05 Terapia e Consultório,,"terapeuta anotando em prancheta, paciente ao fundo"
 454,VAHAhWrSDzM,05 Terapia e Consultório,,anotação em prancheta desfocada na sessão
 455,VAGmHCjDsds,04 Trabalho e Estudo,Home Office e Notebook,mão pegando caneca na mesa com notebook e celular
-456,VAHEd4KEVXQ,09 Móveis e Cenários 3D,,"poltrona azul de madeira com manta, vista de cima (3D)"
-457,VAHEdxDsKd4,09 Móveis e Cenários 3D,,"poltrona azul de madeira, vista lateral (3D)"
+456,VAHEd4KEVXQ,09 Poltronas e Cadeiras,,"poltrona azul de madeira com manta, vista de cima (3D)"
+457,VAHEdxDsKd4,09 Poltronas e Cadeiras,,"poltrona azul de madeira, vista lateral (3D)"
 458,VAHLKAbAUuY,04 Trabalho e Estudo,"Escrita, Caderno e Planner",caderninho e caneta sobre o sofá
 459,VAEoRCcT4Ds,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)","sala com sofá bege, mesinha dourada e tapete"
 460,VAEoRFcX3oU,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",sala vazia com parede boiserie e piso de madeira
@@ -469,8 +469,8 @@ pagina_original,video_id,pasta,subpasta,descricao
 468,VAGZbmHNk5c,03 Casa e Aconchego,"Flores, Arranjos e Vasos",mão segurando buquê seco com sombra na parede
 469,VAEd12EZKXA,03 Casa e Aconchego,"Flores, Arranjos e Vasos",eucalipto em vaso de cerâmica redondo
 470,VAGZdIqnTxE,03 Casa e Aconchego,"Flores, Arranjos e Vasos",vaso de rosto com capim seco e eucalipto
-471,VAGmHFStcSc,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",mão tocando cadeira estofada na sala de jantar
-472,VAGqAg3J5xI,09 Móveis e Cenários 3D,,poltrona caramelo com sombra de folhas (3D)
+471,VAGmHFStcSc,09 Poltronas e Cadeiras,,mão tocando cadeira estofada na sala de jantar
+472,VAGqAg3J5xI,09 Poltronas e Cadeiras,,poltrona caramelo com sombra de folhas (3D)
 473,VAFWlviwza4,01 Natureza,Outono,casal de idosos caminhando no parque de outono
 474,VAFWlvhu4wA,01 Natureza,Outono,casal no banco diante do lago no outono
 475,VAHTh6YZFu0,06 Pessoas,"Casais, Família e Cuidado",mãos segurando mão de idoso (cuidado)
@@ -480,6 +480,6 @@ pagina_original,video_id,pasta,subpasta,descricao
 479,VAGW_MaTp2E,06 Pessoas,Liberdade e Viagem,mão para fora da janela do carro
 480,VAGbBxQyAk4,06 Pessoas,"Casais, Família e Cuidado",casal de mãos dadas na neve
 481,VAGz1jYvpWs,04 Trabalho e Estudo,"Escrita, Caderno e Planner",mão escrevendo a lápis na mesa
-482,VAG476gPOMM,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",poltrona e costela-de-adão com luz dourada
-483,VAGZdMfu5iM,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",poltrona verde diante de cortina
+482,VAG476gPOMM,09 Poltronas e Cadeiras,,poltrona e costela-de-adão com luz dourada
+483,VAGZdMfu5iM,09 Poltronas e Cadeiras,,poltrona verde diante de cortina
 484,VAGhotwQLtY,"11 Fundos, Texturas e Still Life",,ramos de eucalipto com luz e sombra
