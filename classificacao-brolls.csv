@@ -1,313 +1,485 @@
-pagina,pasta,descricao,paginas_repetidas
-1,03 Casa e Aconchego/Chá e Café,"chá sendo servido na janela, livro, velas, neve lá fora (aconchego)",
-2,"03 Casa e Aconchego/Flores, Arranjos e Vasos","vaso de dálias na janela, mão com celular",
-3,"11 Fundos, Texturas e Still Life",pódio branco com sombra de palmeira (fundo produto),
-4,01 Natureza/Mar e Praia,"mulher de costas caminhando em passarela à beira-mar, montanhas",313
-5,07 Leitura,mãos folheando livro (leitura),314
-6,04 Trabalho e Estudo/Home Office e Notebook,"mulher digitando notebook, café e bolo (trabalho/café)",315
-7,06 Pessoas/Liberdade e Viagem,"mulher em conversível, braço levantado, estrada (liberdade)",316
-8,"03 Casa e Aconchego/Flores, Arranjos e Vasos",mão segurando flor de plumeria (delicado),317
-9,01 Natureza/Pôr do Sol e Céu,"silhueta mulher com cachorro na praia, pôr do sol",318
-10,"01 Natureza/Campos, Trigo e Capim",mão tocando trigo dourado (campo),319
-11,01 Natureza/Mar e Praia,"praia com coqueiros, céu nublado",320
-12,01 Natureza/Pôr do Sol e Céu,pôr do sol vibrante laranja na praia,321
-13,01 Natureza/Outono,"rua com igreja, folhas de outono (cidade/outono)",322
-14,01 Natureza/Pôr do Sol e Céu,"crepúsculo laranja sobre lago, pinheiros",323
-15,06 Pessoas/De Costas e Silhuetas,"mulher de costas no penhasco, braço levantado, mar/montanha",324
-16,02 Chuva e Clima,"chuva na janela, toalha (chuva)",325
-17,01 Natureza/Pôr do Sol e Céu,penhasco sobre mar ao pôr do sol (aérea),326
-18,01 Natureza/Pôr do Sol e Céu,pássaros voando no céu ao entardecer sobre mar,327
-19,06 Pessoas/De Costas e Silhuetas,"mulher de costas, rabo de cavalo, rio",328
-20,"04 Trabalho e Estudo/Escrita, Caderno e Planner","mulher escrevendo em agenda, mesa com teclado (planejamento)",329
-21,"03 Casa e Aconchego/Flores, Arranjos e Vasos","mãos segurando flor gypsophila, café (delicado/minimal)",330
-22,01 Natureza/Mar e Praia,"ondas quebrando nas pedras, mar turquesa",331
-23,"01 Natureza/Florestas, Árvores e Trilhas",rio na floresta,332
-24,08 Cidade e Urbano,"pôr do sol sobre ponte/cidade, grade (urbano)",333
-25,"03 Casa e Aconchego/Flores, Arranjos e Vasos",mão arrumando capim dos pampas em vaso (decoração),334
-26,01 Natureza/Mar e Praia,"pôr do sol no mar visto de barco, gaivota",335
-27,01 Natureza/Pôr do Sol e Céu,"silhueta de montanha à noite, lago (crepúsculo escuro)",336
-28,01 Natureza/Outono,"rosas brancas, árvores de outono ao fundo",337
-29,08 Cidade e Urbano,"cidade ao amanhecer, avenida com trânsito",338
-30,04 Trabalho e Estudo/Home Office e Notebook,"notebook e xícara de café em mesa branca, luz suave (home office)",339
-31,01 Natureza/Pôr do Sol e Céu,"capim ao vento, pôr do sol no mar",340
-32,"03 Casa e Aconchego/Janelas, Cortinas e Luz Natural","cortina ao vento, varanda com vista mar",341
-33,"04 Trabalho e Estudo/Escrita, Caderno e Planner","mão escrevendo em caderno, xícara de café (escrita)",342
-34,"01 Natureza/Campos, Trigo e Capim",mão passando em campo de lavanda,343
-35,"03 Casa e Aconchego/Flores, Arranjos e Vasos","mão segurando peônia branca, cortina",344
-36,04 Trabalho e Estudo/Home Office e Notebook,pessoa de pijama com notebook no colo (home office),345
-37,"03 Casa e Aconchego/Velas, Mantas e Momentos Cozy","caneca na janela com chuva, livros, aconchego",346
-38,"04 Trabalho e Estudo/Escrita, Caderno e Planner","mesa com caderno, caneta, copo de água, luz pela cortina",347
-39,"03 Casa e Aconchego/Janelas, Cortinas e Luz Natural",tecido/cortina bege esvoaçando (textura),348
-40,12 Bem-estar e Autocuidado,tapete de yoga e halter junto à janela (bem-estar),349
-41,"03 Casa e Aconchego/Janelas, Cortinas e Luz Natural","sol atravessando cortina, contraluz",350
-42,01 Natureza/Folhas e Flores Close,"dente-de-leão em contraluz, bokeh",351
-43,01 Natureza/Mar e Praia,pôr do sol no mar com cidade ao fundo,352
-44,"03 Casa e Aconchego/Flores, Arranjos e Vasos","orquídea em vaso, sombra na parede, café, caderno",353
-45,"04 Trabalho e Estudo/Escrita, Caderno e Planner","caderno espiral e caneta dourada, sombra de folhas",354
-46,"03 Casa e Aconchego/Janelas, Cortinas e Luz Natural","cortina com sombra de árvore, luz dourada",355
-47,06 Pessoas/De Costas e Silhuetas,"mulher lendo livro escondendo rosto, luz/sombra",356
-48,"03 Casa e Aconchego/Flores, Arranjos e Vasos","galhos de eucalipto, cortina branca",357
-49,"03 Casa e Aconchego/Flores, Arranjos e Vasos",costela-de-adão (monstera) em vaso,358
-50,"03 Casa e Aconchego/Flores, Arranjos e Vasos",folhas de eucalipto close,359
-51,"04 Trabalho e Estudo/Escrita, Caderno e Planner","mão escrevendo em bloco com caneta dourada, copo (escrita)",360
-52,"03 Casa e Aconchego/Ambientes (Sala, Quarto, Cozinha)","mesa de madeira e cadeiras, vaso com galhos, cortina (interior)",361
-53,03 Casa e Aconchego/Chá e Café,café sendo servido na xícara (vista de cima),362
-54,03 Casa e Aconchego/Chá e Café,café sendo servido close,363
-55,03 Casa e Aconchego/Chá e Café,grãos de café caindo,364
-56,03 Casa e Aconchego/Chá e Café,"chá na janela com chuva/neve, bule (aconchego)",365
-57,03 Casa e Aconchego/Chá e Café,"mão mexendo café em xícara, mãos com anéis",366
-58,03 Casa e Aconchego/Chá e Café,"café sobre livro aberto, ramos de oliveira",367
-59,"03 Casa e Aconchego/Ambientes (Sala, Quarto, Cozinha)",poltrona branca e lareira (sala),368
-60,"03 Casa e Aconchego/Ambientes (Sala, Quarto, Cozinha)","sala com sofá, TV, capim dos pampas (sala minimal)",369
-61,"03 Casa e Aconchego/Ambientes (Sala, Quarto, Cozinha)",cozinha com tábuas de madeira e jiboia (cozinha),370
-62,04 Trabalho e Estudo/Escritório e Corporativo,escritório com mesas e luminárias (escritório),371
-63,"01 Natureza/Florestas, Árvores e Trilhas",copa de árvore com céu azul,372
-64,"01 Natureza/Florestas, Árvores e Trilhas",floresta de pinheiros com sol,373
-65,"01 Natureza/Florestas, Árvores e Trilhas","samambaia, cachoeira ao fundo",374
-66,"01 Natureza/Florestas, Árvores e Trilhas",floresta verde densa,375
-67,"03 Casa e Aconchego/Janelas, Cortinas e Luz Natural",cortinas brancas com luz dourada do sol (interior),376
-68,"03 Casa e Aconchego/Velas, Mantas e Momentos Cozy",vela acesa e livro (aconchego),377
-69,"03 Casa e Aconchego/Janelas, Cortinas e Luz Natural","janela aberta com cortina ao vento, jardim",378
-70,04 Trabalho e Estudo/Home Office e Notebook,"mulher de cima em mesa com laptop e caderno, quarto (home office)",379
-71,04 Trabalho e Estudo/Home Office e Notebook,"mesa com eucalipto, café, óculos, caderno, notebook (flatlay escritório)",380
-72,"03 Casa e Aconchego/Flores, Arranjos e Vasos","vaso com folha de palmeira seca, revista (decoração)",381
-73,"01 Natureza/Florestas, Árvores e Trilhas",estrada entre árvores vista do carro,382
-74,"04 Trabalho e Estudo/Escrita, Caderno e Planner","mão com caneta em planner, cappuccino (planejamento)",383
-75,01 Natureza/Mar e Praia,"ondas no mar ao entardecer, praia",384
-76,01 Natureza/Pôr do Sol e Céu,"gaivotas voando ao entardecer, céu rosado sobre mar/cidade",385
-77,"03 Casa e Aconchego/Ambientes (Sala, Quarto, Cozinha)","mãos arrumando travesseiro, cama branca (quarto)",386
-78,05 Terapia e Consultório,consulta: mãos com caneta mostrando folheto a paciente (consultório),387
-79,04 Trabalho e Estudo/Home Office e Notebook,"copo de água e notebook, cortina com luz (home office)",388
-80,02 Chuva e Clima,chuva com bokeh verde escuro (chuva),389
-81,01 Natureza/Pôr do Sol e Céu,"silhueta homem de braços cruzados no capim, pôr do sol",390
-82,"03 Casa e Aconchego/Velas, Mantas e Momentos Cozy","sala com sofá, manta, vela, mão pegando taça de vinho (aconchego)",391
-83,"03 Casa e Aconchego/Flores, Arranjos e Vasos","mãos segurando buquê de flores secas rosadas, sombra",392
-84,04 Trabalho e Estudo/Home Office e Notebook,"mesa: tulipas, café, caderno, notebook (flatlay escritório)",393
-85,03 Casa e Aconchego/Chá e Café,café gelado sendo servido em copo com leite,394
-86,07 Leitura,"livro aberto, flores, pudim/doce na mesa (leitura/café)",395
-87,"03 Casa e Aconchego/Ambientes (Sala, Quarto, Cozinha)","quarto com janela grande, plantas, neblina lá fora (interior)",396
-88,"03 Casa e Aconchego/Velas, Mantas e Momentos Cozy","velas acesas, bokeh, decoração natalina",397
-89,01 Natureza/Folhas e Flores Close,ramo de pinheiro com gotas de chuva (natureza close),398
-90,02 Chuva e Clima,"gotas de chuva no vidro do carro, entardecer (chuva)",399
-91,"03 Casa e Aconchego/Flores, Arranjos e Vasos","copo-de-leite em vaso, cortina (flores)",400
-92,08 Cidade e Urbano,"cidade ao entardecer, avenida com trânsito e prédios",401
-93,04 Trabalho e Estudo/Escritório e Corporativo,homem de costas olhando a cidade pela janela de escritório,402
-94,08 Cidade e Urbano,"rua de cidade com prédios, dia ensolarado",403
-95,08 Cidade e Urbano,cidade à noite vista do alto (luzes),404
-96,02 Chuva e Clima,"chão molhado de chuva, reflexo (chuva)",405
-97,"06 Pessoas/Casais, Família e Cuidado","parque ao pôr do sol, pessoas, carrinho de bebê",406
-98,01 Natureza/Mar e Praia,"mulher caminhando descalça na praia com chapéu, pegadas",407
-99,"01 Natureza/Florestas, Árvores e Trilhas","pessoa no fim de passarela de madeira ao entardecer, lago",408
-100,"01 Natureza/Florestas, Árvores e Trilhas",caminho asfaltado em parque/floresta verde,409
-101,01 Natureza/Pôr do Sol e Céu,"silhueta de pessoa de costas contra o sol, lago (pôr do sol)",410
-102,"01 Natureza/Campos, Trigo e Capim","capim dourado ao vento, luz baixa",411
-103,06 Pessoas/De Costas e Silhuetas,mulher com folha cobrindo os olhos (retrato artístico),412
-104,"03 Casa e Aconchego/Ambientes (Sala, Quarto, Cozinha)","jardinagem: pá, vasos, terra, plantas (de cima)",413
-105,01 Natureza/Folhas e Flores Close,mão tocando folhas grandes verdes (escuro),414
-106,"01 Natureza/Campos, Trigo e Capim","planta silvestre ao vento, fundo dourado",415
-107,"03 Casa e Aconchego/Janelas, Cortinas e Luz Natural",silhueta de planta (filodendro) contra cortina,416
-108,"11 Fundos, Texturas e Still Life",copo de vidro canelado sobre fundo bege (produto/minimal),417
-109,02 Chuva e Clima,"chuva na janela, toalha (DUPLICADO da 16?)",418
-110,02 Chuva e Clima,"plantas tropicais à noite, chuva (escuro)",419
-111,02 Chuva e Clima,gotas de chuva em poça (chuva),420
-112,01 Natureza/Folhas e Flores Close,chuva caindo em folhas verdes,421
-113,07 Leitura,mulher lendo com flores (narcisos) e chá,422
-114,"03 Casa e Aconchego/Ambientes (Sala, Quarto, Cozinha)",sala moderna com poltrona cinza e escada,423
-115,09 Móveis e Cenários 3D,cadeira e mesa minimalistas (render),424
-116,09 Móveis e Cenários 3D,poltrona verde com cortina branca,425
-117,09 Móveis e Cenários 3D,poltrona laranja com sombra de árvore (render),426
-118,09 Móveis e Cenários 3D,duas poltronas com sombra de palmeira (render),427
-119,09 Móveis e Cenários 3D,espreguiçadeira azul com manta (render),428
-120,09 Móveis e Cenários 3D,poltrona verde com almofada marrom (render),429
-121,09 Móveis e Cenários 3D,"poltrona marrom e mesa lateral, sombra de árvore (render)",430
-122,09 Móveis e Cenários 3D,"poltrona cinza e mesa lateral, sombra (render)",431
-123,09 Móveis e Cenários 3D,"poltrona preta e mesa lateral, sombra (render)",432
-124,09 Móveis e Cenários 3D,"poltrona com velas na mesa lateral, sombra (render)",433
-125,09 Móveis e Cenários 3D,"poltrona de madeira e vaso, sombra na parede verde (render)",434
-126,09 Móveis e Cenários 3D,"poltrona de couro escura, parede de concreto, sombra (render)",435
-127,09 Móveis e Cenários 3D,"sofá externo, mesa de centro, sombra na parede (render)",436
-128,09 Móveis e Cenários 3D,"poltrona verde, parede de tijolo escuro, sombra (render)",437
-129,09 Móveis e Cenários 3D,"cadeira de couro caramelo, sombra de folhas (render)",438
-130,"06 Pessoas/Mãos, Gestos e Emoções","pé descalço e perna, luz e sombra (sala escura)",439
-131,09 Móveis e Cenários 3D,"cadeira de madeira estilo Jeanneret, sombra de folhas (render)",440
-132,09 Móveis e Cenários 3D,"cadeira Jeanneret vista de cima, sombra (render)",441
-133,09 Móveis e Cenários 3D,"cadeira Jeanneret, luz e sombra (render)",442
-134,05 Terapia e Consultório,"mulher sentada em consulta, roupa clara (terapia/consultório)",443
-135,05 Terapia e Consultório,"terapeuta anotando, paciente com mãos inquietas (terapia)",444
-136,"06 Pessoas/Mãos, Gestos e Emoções","mãos entrelaçadas, ansiedade, luz suave (emoção)",445
-137,"06 Pessoas/Mãos, Gestos e Emoções",mãos entrelaçadas close (ansiedade),446
-138,05 Terapia e Consultório,"pessoa de pernas cruzadas em poltrona, óculos e copo de água (terapia)",447
-139,05 Terapia e Consultório,"sessão: pessoa com caneca, terapeuta de costas (terapia)",448
-140,05 Terapia e Consultório,"mulher de terninho sentada, mãos no colo (terapia/profissional)",449
-141,05 Terapia e Consultório,terapeuta anotando em caderno (terapia),450
-142,"04 Trabalho e Estudo/Escrita, Caderno e Planner",caneta-tinteiro escrevendo (escrita close),451
-143,05 Terapia e Consultório,"terapeuta com livro no colo, poltrona (terapia)",452
-144,05 Terapia e Consultório,"terapeuta anotando em prancheta, paciente ao fundo (terapia escuro)",453
-145,05 Terapia e Consultório,"prancheta desfocada, paciente no sofá (terapia)",454
-146,04 Trabalho e Estudo/Home Office e Notebook,mão pegando caneca de café na mesa de trabalho (home office),455
-147,09 Móveis e Cenários 3D,poltrona azul com manta (render),456
-148,09 Móveis e Cenários 3D,poltrona azul vista traseira (render),457
-149,"04 Trabalho e Estudo/Escrita, Caderno e Planner","caderno e caneta sobre sofá, luz e sombra",458
-150,"03 Casa e Aconchego/Ambientes (Sala, Quarto, Cozinha)","sala com sofá, mesa dourada, tapete (sala decoração)",459
-151,"03 Casa e Aconchego/Ambientes (Sala, Quarto, Cozinha)",sala vazia com parede boiserie e piso de madeira (estúdio vazio),460
-152,06 Pessoas/De Costas e Silhuetas,mulher lendo escondendo rosto (DUPLICADO da 47?),461
-153,"03 Casa e Aconchego/Flores, Arranjos e Vasos","hortênsia branca em vaso, planta, cortina (decoração)",462
-154,"03 Casa e Aconchego/Flores, Arranjos e Vasos","vaso de cerâmica, sofá ao fundo (decoração minimal)",463
-155,05 Terapia e Consultório,"homem sentado em poltrona de couro, mãos juntas (terapia/espera)",464
-156,01 Natureza/Mar e Praia,"livro aberto em mureta, mar turquesa e falésias",465
-157,01 Natureza/Pôr do Sol e Céu,balanço em varanda ao pôr do sol,466
-158,"04 Trabalho e Estudo/Escrita, Caderno e Planner",mão escrevendo caligrafia (escrita),467
-159,"03 Casa e Aconchego/Flores, Arranjos e Vasos",mão com flores secas e sombra na parede rosa (DUP próx. 83),468
-160,"03 Casa e Aconchego/Flores, Arranjos e Vasos","eucalipto em vaso de cerâmica, fundo branco (decoração)",469
-161,"03 Casa e Aconchego/Flores, Arranjos e Vasos","vaso com rosto, trigo seco, eucalipto (decoração)",470
-162,"03 Casa e Aconchego/Ambientes (Sala, Quarto, Cozinha)","mão tocando encosto de cadeira, mesa de jantar (interior)",471
-163,09 Móveis e Cenários 3D,"poltrona caramelo com sombra de folhas, tapete (render)",472
-164,01 Natureza/Outono,casal de idosos caminhando no outono de mãos dadas,473
-165,01 Natureza/Outono,"casal sentado em banco à beira do lago, outono",474
-166,"06 Pessoas/Casais, Família e Cuidado",mãos segurando mãos de idoso (cuidado),475
-167,10 Tempo e Conceitos,"ampulheta areia branca, fundo escuro (tempo)",476
-168,10 Tempo e Conceitos,"ampulheta areia rosada, folhas secas (tempo)",477
-169,10 Tempo e Conceitos,"ampulheta areia dourada, fundo preto (tempo)",478
-170,06 Pessoas/Liberdade e Viagem,"mão para fora da janela do carro, paisagem verde (viagem)",479
-171,"06 Pessoas/Casais, Família e Cuidado",casal de mãos dadas na neve,480
-172,"04 Trabalho e Estudo/Escrita, Caderno e Planner","mão escrevendo com lápis, notebook (estudo)",481
-173,"03 Casa e Aconchego/Janelas, Cortinas e Luz Natural","sala com luz dourada, monstera, sofá (luz de pôr do sol interior)",482
-174,09 Móveis e Cenários 3D,poltrona verde e cortina (DUPLICADO da 116),483
-175,"03 Casa e Aconchego/Flores, Arranjos e Vasos","galhos de eucalipto desfocados, fundo branco",484
-176,"03 Casa e Aconchego/Ambientes (Sala, Quarto, Cozinha)","sala moderna com quadro abstrato, poltrona cinza",
-177,01 Natureza/Mar e Praia,"mar calmo preto e branco, areia",
-178,01 Natureza/Mar e Praia,mar à noite com luzes bokeh,
-179,"03 Casa e Aconchego/Ambientes (Sala, Quarto, Cozinha)","mesa de jantar, cadeira, vaso com eucalipto",
-180,04 Trabalho e Estudo/Home Office e Notebook,"dedo no touchpad do notebook, caneca",
-181,10 Tempo e Conceitos,objetos de madeira em equilíbrio (conceito equilíbrio),
-182,"01 Natureza/Lagos, Rios e Cachoeiras",juncos à beira do lago ao entardecer,
-183,"03 Casa e Aconchego/Janelas, Cortinas e Luz Natural","janela com cortina rendada, cadeira em contraluz",
-184,"01 Natureza/Campos, Trigo e Capim","grama alta ao sol, desfoque",
-185,01 Natureza/Mar e Praia,"praia ao entardecer, ondas, palmeiras",
-186,"01 Natureza/Lagos, Rios e Cachoeiras",água com reflexo dourado (textura),
-187,"03 Casa e Aconchego/Flores, Arranjos e Vasos",flores do campo desfocadas,
-188,"04 Trabalho e Estudo/Escrita, Caderno e Planner",mão escrevendo em caderno com caneta branca,
-189,07 Leitura,mulher com livro aberto na cabeça (cansaço/estudo),
-190,"01 Natureza/Campos, Trigo e Capim",roupa bege em meio ao trigo,
-191,02 Chuva e Clima,"chuva no vidro do carro, árvore seca",
-192,01 Natureza/Folhas e Flores Close,"flor branca close, fundo escuro",
-193,04 Trabalho e Estudo/Home Office e Notebook,mãos digitando no notebook,
-194,"03 Casa e Aconchego/Flores, Arranjos e Vasos",margaridas brancas com sombra,
-195,01 Natureza/Pôr do Sol e Céu,pôr do sol sobre lago com galho,
-196,06 Pessoas/De Costas e Silhuetas,silhueta de mulher no mar ao pôr do sol,
-197,"03 Casa e Aconchego/Flores, Arranjos e Vasos",girassóis com janela ao fundo,
-198,06 Pessoas/De Costas e Silhuetas,"mulher de costas, parede com fotos e mapa",
-199,"04 Trabalho e Estudo/Escrita, Caderno e Planner","mesa de estudo com papéis, caneta, câmera",
-200,"01 Natureza/Campos, Trigo e Capim",capim e flores silvestres ao vento,
-201,10 Tempo e Conceitos,"ampulheta sobre livros, galho florido",
-202,04 Trabalho e Estudo/Home Office e Notebook,"mãos digitando notebook visto de cima, café",
-203,"04 Trabalho e Estudo/Escrita, Caderno e Planner","estudo em biblioteca, livros empilhados, anotando",
-204,01 Natureza/Mar e Praia,"praia com rochas e ondas, céu nublado",
-205,01 Natureza/Mar e Praia,"beira-mar com pedras, luz brilhante",
-206,04 Trabalho e Estudo/Home Office e Notebook,mesa com notebook diante de janela para floresta,
-207,"03 Casa e Aconchego/Velas, Mantas e Momentos Cozy","caneca, vela acesa, livros, vaso (cozy minimal)",
-208,"03 Casa e Aconchego/Janelas, Cortinas e Luz Natural","cortina branca leve, cadeira, luz",
-209,06 Pessoas/Liberdade e Viagem,"carro no alto da colina ao pôr do sol, mar",
-210,01 Natureza/Folhas e Flores Close,flores brancas de macieira close,
-211,01 Natureza/Pôr do Sol e Céu,arco-íris no céu sobre árvores,
-212,"03 Casa e Aconchego/Flores, Arranjos e Vasos","narciso amarelo em vaso, livro aberto",
-213,05 Terapia e Consultório,terapeuta de vestido anotando em prancheta,
-214,05 Terapia e Consultório,"mulher anotando em prancheta, jeans (terapeuta)",
-215,"03 Casa e Aconchego/Flores, Arranjos e Vasos","ateliê de flores, delfínio azul",
-216,"01 Natureza/Florestas, Árvores e Trilhas","árvore florida branca, céu azul",
-217,07 Leitura,"livro aberto folheando, janela com cidade",
-218,05 Terapia e Consultório,mãos com caneta revisando formulário (consulta),
-219,01 Natureza/Pôr do Sol e Céu,pôr do sol no mar com pedras,
-220,"03 Casa e Aconchego/Flores, Arranjos e Vasos",mão segurando rosas com sombra na parede,
-221,"11 Fundos, Texturas e Still Life",tecido laranja esvoaçando com sombra (textura),
-222,"03 Casa e Aconchego/Ambientes (Sala, Quarto, Cozinha)","cortina bege, luminária globo, flores secas",
-223,"03 Casa e Aconchego/Janelas, Cortinas e Luz Natural",silhueta de lírio em vaso contra cortina (sépia),
-224,"03 Casa e Aconchego/Ambientes (Sala, Quarto, Cozinha)","sofá bege, mesa de centro, vaso com rosto, boiserie verde",
-225,"11 Fundos, Texturas e Still Life",tecido branco esvoaçando (textura),
-226,03 Casa e Aconchego/Chá e Café,"café sendo servido em xícara sobre livro, grãos",
-227,05 Terapia e Consultório,"sessão de terapia, paciente e terapeuta em cadeiras de vime",
-228,"03 Casa e Aconchego/Flores, Arranjos e Vasos",mão erguendo margaridas contra céu azul,
-229,"01 Natureza/Lagos, Rios e Cachoeiras","pinha na margem, água ao fundo",
-230,"11 Fundos, Texturas e Still Life","mão pegando cacho de uvas, luz e sombra",
-231,12 Bem-estar e Autocuidado,"mão tocando piano, flores (hobby/música)",
-232,"01 Natureza/Lagos, Rios e Cachoeiras","juncos no lago, gaivota, montanhas",
-233,06 Pessoas/De Costas e Silhuetas,"mulher de vestido branco caminhando nas rochas, montanhas",
-234,01 Natureza/Mar e Praia,mão tocando a água do mar no barco,
-235,01 Natureza/Pôr do Sol e Céu,"homem caminhando no campo ao nascer do sol, lago",
-236,01 Natureza/Pôr do Sol e Céu,pôr do sol sobre lago com nuvens,
-237,"01 Natureza/Lagos, Rios e Cachoeiras",cachoeira com pessoas sentadas nas rochas,
-238,"01 Natureza/Campos, Trigo e Capim",capim seco dourado ao vento,
-239,"06 Pessoas/Mãos, Gestos e Emoções",mão com borboleta pousada,
-240,"06 Pessoas/Mãos, Gestos e Emoções","mulher apoiada em cadeira de palhinha, luz e sombra",
-241,"01 Natureza/Lagos, Rios e Cachoeiras",barcos a remo no rio (vista aérea),
-242,06 Pessoas/Liberdade e Viagem,mulher de costas correndo no campo de capim (liberdade),
-243,12 Bem-estar e Autocuidado,pés descalços na água,
-244,"03 Casa e Aconchego/Ambientes (Sala, Quarto, Cozinha)","mão apoiando vaso prateado, escultura de rosto (decoração)",
-245,08 Cidade e Urbano,"cidade ao longe na neblina, margem do rio",
-246,06 Pessoas/De Costas e Silhuetas,silhueta de homem no penhasco olhando o mar,
-247,06 Pessoas/Liberdade e Viagem,mulher de casaco correndo na praia (liberdade),
-248,03 Casa e Aconchego/Chá e Café,mão servindo chá em bule sobre mesa de tronco,
-249,"06 Pessoas/Casais, Família e Cuidado",mãos se tocando na grama com margaridas,
-250,06 Pessoas/De Costas e Silhuetas,mulher de costas na varanda olhando montanhas,
-251,"06 Pessoas/Mãos, Gestos e Emoções",dedo tocando tecido branco (delicado),
-252,"03 Casa e Aconchego/Flores, Arranjos e Vasos",mão tocando arranjo de flores secas,
-253,"03 Casa e Aconchego/Flores, Arranjos e Vasos",mão arrumando arranjo de flores brancas,
-254,01 Natureza/Pôr do Sol e Céu,barco no mar ao pôr do sol,
-255,"03 Casa e Aconchego/Flores, Arranjos e Vasos","eucalipto seco em vaso de vidro, quadro",
-256,06 Pessoas/De Costas e Silhuetas,mulher sentada na praia contra o sol,
-257,01 Natureza/Pôr do Sol e Céu,"gaivotas voando sobre lago, montanhas",
-258,"03 Casa e Aconchego/Flores, Arranjos e Vasos",pétalas de rosa com gotas (close),
-259,12 Bem-estar e Autocuidado,"livro com ervas secas, cristal (chá/ervas naturais)",
-260,12 Bem-estar e Autocuidado,"corpo feminino de biquíni na praia, luz e sombra (autoestima)",
-261,"06 Pessoas/Mãos, Gestos e Emoções",mão masculina deixando flor (gesto delicado),
-262,"03 Casa e Aconchego/Flores, Arranjos e Vasos",mão arrumando rosas brancas em vaso,
-263,"01 Natureza/Campos, Trigo e Capim",capim dourado ao vento close,
-264,"03 Casa e Aconchego/Ambientes (Sala, Quarto, Cozinha)","vasos de cerâmica, vela e flores secas (decoração)",
-265,"01 Natureza/Campos, Trigo e Capim","mão passando por flores do campo, montanhas",
-266,"03 Casa e Aconchego/Velas, Mantas e Momentos Cozy",cama branca com taça e galho florido,
-267,07 Leitura,"mão folheando livros, café (leitura)",
-268,"01 Natureza/Campos, Trigo e Capim",mulher correndo em campo de trigo ao pôr do sol,
-269,"01 Natureza/Campos, Trigo e Capim",mão tocando flores brancas no campo,
-270,01 Natureza/Folhas e Flores Close,mão tocando tronco de árvore (textura),
-271,"01 Natureza/Florestas, Árvores e Trilhas",bicicleta em jardim verde,
-272,01 Natureza/Folhas e Flores Close,"galhos com folhas novas, bokeh",
-273,"01 Natureza/Lagos, Rios e Cachoeiras","lago com água cristalina, galho de pinheiro",
-274,03 Casa e Aconchego/Chá e Café,"chá sendo servido, tulipas, revista",
-275,"06 Pessoas/Mãos, Gestos e Emoções","mãos sobre o joelho, luz e sombra",
-276,01 Natureza/Mar e Praia,costa rochosa ao entardecer rosado,
-277,"03 Casa e Aconchego/Flores, Arranjos e Vasos",mão colocando flor amarela em vaso de vidro,
-278,"01 Natureza/Florestas, Árvores e Trilhas","galhos com flores amarelas, mar ao fundo",
-279,"11 Fundos, Texturas e Still Life","composição: tigelas, magnólia, espelho, vela (still life)",
-280,"03 Casa e Aconchego/Flores, Arranjos e Vasos",mãos tocando crisântemo branco close,
-281,"06 Pessoas/Mãos, Gestos e Emoções",mãos com anéis sobre mesa preta (produto/joias),
-282,01 Natureza/Pôr do Sol e Céu,gaivota em poste ao nascer do sol no mar,
-283,"01 Natureza/Florestas, Árvores e Trilhas",mulher pendurando roupa em oliveira (vida simples),
-284,"03 Casa e Aconchego/Flores, Arranjos e Vasos","gipsófila em vaso de vidro, fundo branco",
-285,12 Bem-estar e Autocuidado,"flor em redoma de vidro, pilão (ervas/aromaterapia)",
-286,01 Natureza/Mar e Praia,mar turquesa com rochas (vista de cima),
-287,03 Casa e Aconchego/Chá e Café,"mão mexendo chá na caneca, potes de ervas",
-288,01 Natureza/Mar e Praia,pé de sandália caminhando na areia,
-289,"03 Casa e Aconchego/Flores, Arranjos e Vasos",mão arrumando narcisos brancos,
-290,01 Natureza/Mar e Praia,"mar azul com rochas, céu limpo",
-291,"03 Casa e Aconchego/Janelas, Cortinas e Luz Natural",sombra de flores em tecido bege,
-292,01 Natureza/Mar e Praia,ondas quebrando ao entardecer,
-293,"11 Fundos, Texturas e Still Life","porta-joias de mármore, palmeira seca (produto)",
-294,"03 Casa e Aconchego/Flores, Arranjos e Vasos",mulher arrumando buquê colorido em vaso,
-295,01 Natureza/Folhas e Flores Close,flores de macieira rosadas close,
-296,"03 Casa e Aconchego/Flores, Arranjos e Vasos",cardo azul e flores brancas (arranjo),
-297,01 Natureza/Folhas e Flores Close,"flor branca em haste, fundo verde escuro",
-298,"03 Casa e Aconchego/Janelas, Cortinas e Luz Natural",sombra de mão com flor na parede,
-299,"04 Trabalho e Estudo/Escrita, Caderno e Planner","mesa com caderno escrito, chá, lápis (P&B)",
-300,"11 Fundos, Texturas e Still Life","still life: romã, galhos, copo cerâmico",
-301,"03 Casa e Aconchego/Ambientes (Sala, Quarto, Cozinha)","mão arrumando plantas em mesa lateral, sala",
-302,01 Natureza/Pôr do Sol e Céu,"pôr do sol sobre rio/cidade, barcos",
-303,01 Natureza/Mar e Praia,costa rochosa com flores amarelas,
-304,"01 Natureza/Campos, Trigo e Capim",trigo com papoula vermelha,
-305,12 Bem-estar e Autocuidado,água sendo servida em copo de vidro (hidratação),
-306,"11 Fundos, Texturas e Still Life",pena rosa e copo de água (P&B),
-307,"11 Fundos, Texturas e Still Life","frutas: toranja, uvas, peras sobre tecido",
-308,"06 Pessoas/Mãos, Gestos e Emoções",mãos com reflexo de arco-íris na parede,
-309,"11 Fundos, Texturas e Still Life",porta-pincéis e cartão em branco (mockup),
-310,"03 Casa e Aconchego/Ambientes (Sala, Quarto, Cozinha)",cama desarrumada com bandeja e xícaras (quarto),
-311,"03 Casa e Aconchego/Ambientes (Sala, Quarto, Cozinha)",mulher caminhando em sala com cadeiras (minimal),
-312,01 Natureza/Pôr do Sol e Céu,"pôr do sol na praia, pessoas na água",
+pagina_original,video_id,pasta,subpasta,descricao
+1,VAGqLsaLYP0,03 Casa e Aconchego,Chá e Café,"chá servido na janela com neve, livro e velas"
+2,VAGqLvArQ-A,03 Casa e Aconchego,"Flores, Arranjos e Vasos","dálias em vaso na janela, mão com celular"
+3,VAGqLgJoimc,"11 Fundos, Texturas e Still Life",,pódio branco com sombra de palmeira
+4,VAGmaXoHMmA,01 Natureza,"Lagos, Rios e Cachoeiras",lago com pinheiros ao pôr do sol
+5,VAGmzfIFeko,06 Pessoas,De Costas e Silhuetas,"mulher caminhando em campo verde, arco-íris"
+6,VAGlgT4zZjg,04 Trabalho e Estudo,Home Office e Notebook,"mulher digitando no notebook, café e bolo"
+7,VAEVxL3mlfY,04 Trabalho e Estudo,"Escrita, Caderno e Planner","mão escrevendo em bloco, lírios e notebook"
+8,VAE6_DOJ-ls,03 Casa e Aconchego,"Velas, Mantas e Momentos Cozy","canecas, livro aberto, óculos, sombra de eucalipto"
+9,VAGP424qbi4,"11 Fundos, Texturas e Still Life",,"sombra de folhas com bokeh, mão"
+10,VAEVBeDZNM4,03 Casa e Aconchego,"Janelas, Cortinas e Luz Natural",mulher na janela segurando caneca
+11,VAEZlHdVgys,03 Casa e Aconchego,"Flores, Arranjos e Vasos","capim seco em vaso, vela acesa (decoração)"
+12,VAFbEW-tYak,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)","penteadeira e cadeira, luz quente"
+13,VAFMQrDBL1c,12 Bem-estar e Autocuidado,,mão com cápsulas (saúde/suplementos)
+14,VAESJOAwINY,06 Pessoas,"Emoções, Cansaço e Introspecção",pessoa encolhida de suéter (ansiedade/tristeza)
+15,VAGTHzvpsjs,04 Trabalho e Estudo,Celular e Redes Sociais,mulher segurando celular
+16,VAGhh20zt6U,01 Natureza,"Campos, Trigo e Capim","mulher de vestido no campo com flores amarelas, contraluz"
+17,VAGnD7jw0b0,"11 Fundos, Texturas e Still Life",,tecido bege esvoaçando
+18,VAGZa1zgiFk,"11 Fundos, Texturas e Still Life",,sombra de planta na parede
+19,VAGrms4biUQ,01 Natureza,Pôr do Sol e Céu,céu com nuvens visto pela janela
+20,VAEd1waMZ_Q,03 Casa e Aconchego,"Flores, Arranjos e Vasos",mão segurando copo-de-leite com sombra
+21,VAGrmo0r0jA,"11 Fundos, Texturas e Still Life",,"sombra de palmeira em parede boiserie, cadernos"
+22,VAEZoPxtl7s,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)","mesa de jantar, cadeira e vaso"
+23,VAEXMBdBx6I,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",mesa posta com pratos (minimal)
+24,VAEYq9YLzqg,10 Tempo e Conceitos,,relógio sobre revistas em banquinho
+25,VAEoyV1txDI,"11 Fundos, Texturas e Still Life",,sombra de planta em parede rosa
+26,VAECFQ0_xys,03 Casa e Aconchego,"Flores, Arranjos e Vasos",mão segurando aquário de vidro com flor branca
+27,VAEX5v-erGY,03 Casa e Aconchego,"Flores, Arranjos e Vasos","regador dourado com eucalipto, luz de janela"
+28,VAF33bcmnHM,06 Pessoas,"Casais, Família e Cuidado","casal sentado em banco à beira-mar, outono"
+29,VAEW2q_qxxs,03 Casa e Aconchego,"Flores, Arranjos e Vasos",mão segurando rosa vermelha
+30,VAGHxtHIpus,03 Casa e Aconchego,"Flores, Arranjos e Vasos","tulipas rosas e xícara ""take your time"""
+31,VAEUgcu-eWU,06 Pessoas,"Casais, Família e Cuidado",mãos de idosos entrelaçadas (cuidado)
+32,VAEh1yH3wTo,06 Pessoas,"Casais, Família e Cuidado",casal de mãos dadas (moda/estúdio)
+33,VAEU-Rjln98,06 Pessoas,"Casais, Família e Cuidado",casal abraçado patinando no gelo
+34,VAGU7PvS73o,01 Natureza,Mar e Praia,espuma de onda na areia (vista de cima)
+35,VAGU7Ud4dvI,"11 Fundos, Texturas e Still Life",,lençol branco amassado (textura)
+36,VAGUZ5K_OUw,03 Casa e Aconchego,"Velas, Mantas e Momentos Cozy",vela acesa na janela com cortina
+37,VAGnFHdzcr4,06 Pessoas,"Emoções, Cansaço e Introspecção",pessoa de suéter branco com mão no rosto (cansaço)
+38,VAGZc9cx12A,01 Natureza,Folhas e Flores Close,"folhas de ficus, fundo branco"
+39,VAEgRb2kjsU,06 Pessoas,Mãos e Gestos,braços e mãos cruzados (gesto delicado)
+40,VAEWzORYzEs,03 Casa e Aconchego,"Janelas, Cortinas e Luz Natural",sombra de galho florido em tecido
+41,VAGUKnM9PME,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",sala com sofá caramelo e quadro
+42,VAGUKqPzJY0,03 Casa e Aconchego,"Flores, Arranjos e Vasos","flores do campo em arranjo, luz suave"
+43,VAGnFWD_szo,05 Terapia e Consultório,,terapeuta idosa anotando em prancheta
+44,VAGUao8YOUM,03 Casa e Aconchego,Chá e Café,café dalgona sobre revista na cama
+45,VAEcxsNOaK4,04 Trabalho e Estudo,"Escrita, Caderno e Planner","caderno, lápis, café e tulipa (flatlay)"
+46,VAEgt-tMF3Y,"11 Fundos, Texturas e Still Life",,anel em caixinha de veludo (produto)
+47,VAGnFSe7pUY,06 Pessoas,"Emoções, Cansaço e Introspecção",mulher pensativa na janela
+48,VAEd12XUEmQ,04 Trabalho e Estudo,Home Office e Notebook,vaso de flor e notebook (mesa minimal)
+49,VAES7pif0bE,02 Chuva e Clima,,árvore seca com neve caindo
+50,VAGnFSqRRdo,01 Natureza,Pôr do Sol e Céu,pôr do sol rosado sobre lago com pinheiros
+51,VAEU_vRymD8,06 Pessoas,"Emoções, Cansaço e Introspecção",mulher deitada na cama de suéter (cansaço)
+52,VAEQPf93HKk,04 Trabalho e Estudo,"Escrita, Caderno e Planner","mão com lápis sobre caderno, garrafa de água, teclado"
+53,VAGZdN3CPS0,06 Pessoas,"Emoções, Cansaço e Introspecção",pessoa coberta na cama (não quer levantar)
+54,VAGAlapmXPo,04 Trabalho e Estudo,Home Office e Notebook,mãos digitando notebook em escrivaninha
+55,VAEfVrxGU-s,10 Tempo e Conceitos,,mãos segurando bússola (direção/propósito)
+56,VAEQXkFNS7A,04 Trabalho e Estudo,Home Office e Notebook,mulher digitando notebook no colo
+57,VAExgWl-IUQ,01 Natureza,Pôr do Sol e Céu,sol entre nuvens sobre mar (P&B)
+58,VAEFIexYksY,01 Natureza,"Campos, Trigo e Capim","mão passando por flores do campo, suéter"
+59,VAFNUuuFUdI,06 Pessoas,De Costas e Silhuetas,silhueta de mulher ao pôr do sol nas montanhas
+60,VAGjJr9B9UM,01 Natureza,Pôr do Sol e Céu,pôr do sol vermelho dramático sobre mar
+61,VAEhew_Mc7E,12 Bem-estar e Autocuidado,,mulher dançando em estúdio com plantas
+62,VAGhvl7x5Xw,03 Casa e Aconchego,"Janelas, Cortinas e Luz Natural",cortina com luz e sombra (dourado)
+63,VAE6ZUXY3to,01 Natureza,Folhas e Flores Close,margaridas brancas no jardim
+64,VAGi3jSZmKg,01 Natureza,Pôr do Sol e Céu,pôr do sol entre galhos secos
+65,VAEU_xsxotA,12 Bem-estar e Autocuidado,,mulher deitada no sofá com fone de ouvido (descanso)
+66,VAGP424qbi4,"11 Fundos, Texturas e Still Life",,"sombra de folhas com bokeh, mão (repetido da 9)"
+67,VAGZdjg2DZE,01 Natureza,Pôr do Sol e Céu,pôr do sol dourado com árvore e capim
+68,VAGgf3Gyph8,03 Casa e Aconchego,Chá e Café,"xícara de chá com tulipas, luz e sombra"
+69,VAEQPf93HKk,04 Trabalho e Estudo,"Escrita, Caderno e Planner",mão com lápis sobre caderno (repetido da 52)
+70,VAGZdmrmPDo,03 Casa e Aconchego,"Velas, Mantas e Momentos Cozy","castiçais, gipsófila e livro na janela"
+71,VAGlgTGQyt8,04 Trabalho e Estudo,Celular e Redes Sociais,mulher usando celular com caderno e notebook
+72,VAGlgdU9eKU,04 Trabalho e Estudo,Home Office e Notebook,mulher digitando notebook (camisa laranja)
+73,VAGlgWyo-hU,04 Trabalho e Estudo,"Escrita, Caderno e Planner","mulher escrevendo em caderno, relógio"
+74,VAGlgVJ0DTk,04 Trabalho e Estudo,Home Office e Notebook,mulher com notebook no sofá (vista de cima)
+75,VAGlgc894g8,04 Trabalho e Estudo,"Escrita, Caderno e Planner","mãos escrevendo em caderno, celular na mesa"
+76,VAGlgenWxDc,04 Trabalho e Estudo,Escritório e Corporativo,homem de blazer segurando notebook
+77,VAGlgYOUirM,04 Trabalho e Estudo,Home Office e Notebook,"mãos digitando notebook, eucalipto e café (minimal)"
+78,VAGlgUSd-LQ,04 Trabalho e Estudo,Home Office e Notebook,dedos digitando teclado close
+79,VAGlgeJ192k,01 Natureza,"Campos, Trigo e Capim",capim verde ao vento
+80,VAGlgTngCWA,01 Natureza,Pôr do Sol e Céu,montanhas sob céu nublado
+81,VAGlgawcTiA,01 Natureza,Mar e Praia,praia de pedrinhas com ondas
+82,VAGlgY9mYTY,04 Trabalho e Estudo,Escritório e Corporativo,reunião em mesa com notebooks e planta
+83,VAGlgYoUvKA,04 Trabalho e Estudo,Escritório e Corporativo,mulheres trabalhando com notebooks e calculadora
+84,VAGlgRo5NFw,04 Trabalho e Estudo,Escritório e Corporativo,pessoas olhando computador com gráficos
+85,VAGlgUpidxw,04 Trabalho e Estudo,Home Office e Notebook,mãos digitando notebook (close)
+86,VAGlge1mhvk,04 Trabalho e Estudo,Home Office e Notebook,pessoa no notebook com gato na janela
+87,VAGlgT558Ro,04 Trabalho e Estudo,"Escrita, Caderno e Planner",mão escrevendo com notebook com gráfico e café
+88,VAGlgcUof8M,01 Natureza,Mar e Praia,mar ao entardecer (aéreo)
+89,VAGlgfa9s48,"11 Fundos, Texturas e Still Life",,cortina marrom com fio de luz (abstrato)
+90,VAGlgSXF2Tg,01 Natureza,Mar e Praia,água com reflexo dourado na areia
+91,VAGlgbbzMnA,04 Trabalho e Estudo,"Escrita, Caderno e Planner",pessoa com papéis em mesa (estudo)
+92,VAGlgVyZWUc,03 Casa e Aconchego,"Flores, Arranjos e Vasos",mãos com gipsófila e vaso branco
+93,VAGlgVnYUaI,04 Trabalho e Estudo,Escritório e Corporativo,pessoa lendo caderno em escritório com computador
+94,VAGlgSVgr-E,04 Trabalho e Estudo,Celular e Redes Sociais,mãos com celular ao lado do notebook
+95,VAGlgSYiXTw,01 Natureza,Folhas e Flores Close,galho florido contra céu azul
+96,VAGlgUMrTUc,04 Trabalho e Estudo,Home Office e Notebook,mãos digitando notebook (masculino)
+97,VAGlgZJQ26c,03 Casa e Aconchego,"Flores, Arranjos e Vasos","vaso com flores lilás secas, luz e sombra"
+98,VAGlgVZA47E,04 Trabalho e Estudo,Home Office e Notebook,mão digitando teclado (escuro)
+99,VAGlgd8yMaQ,01 Natureza,Folhas e Flores Close,flores laranjas close (azaleia)
+100,VAGlgUTscBw,04 Trabalho e Estudo,Celular e Redes Sociais,mãos com celular sobre notebook
+101,VAGlgtDSY9c,04 Trabalho e Estudo,Celular e Redes Sociais,mulher de terninho sentada na escada com celular
+102,VAGlgsPkaFo,04 Trabalho e Estudo,Celular e Redes Sociais,mãos digitando no celular
+103,VAGlgQbZgK8,03 Casa e Aconchego,"Flores, Arranjos e Vasos","mão com flores rosas secas, sombra"
+104,VAGlgZpiX5c,01 Natureza,Pôr do Sol e Céu,céu rosado e lilás ao entardecer
+105,VAGlgrX6aOg,03 Casa e Aconchego,"Flores, Arranjos e Vasos","hortênsias secas em vaso, lupa e livros"
+106,VAGlgu_BM00,03 Casa e Aconchego,"Flores, Arranjos e Vasos",mãos segurando haste de rosa (jaleco branco)
+107,VAGlghdfitU,01 Natureza,Mar e Praia,ondas vistas de cima (mar verde)
+108,VAGlgjrXirs,04 Trabalho e Estudo,Home Office e Notebook,"notebook e caneca em mesinha verde, lareira"
+109,VAGlgoHJ18M,04 Trabalho e Estudo,Escritório e Corporativo,pessoa digitando em escritório (vista de cima)
+110,VAGlgk91QWk,01 Natureza,Folhas e Flores Close,folha de costela-de-adão (monstera)
+111,VAGlgmwAW6g,04 Trabalho e Estudo,Home Office e Notebook,mãos digitando notebook (camisa azul)
+112,VAGlgoby_90,04 Trabalho e Estudo,Home Office e Notebook,mãos digitando notebook (jaqueta de couro)
+113,VAGlgkxp7AY,04 Trabalho e Estudo,Home Office e Notebook,"dedos digitando notebook, caneca ao fundo"
+114,VAGlgqJBkCo,04 Trabalho e Estudo,Escritório e Corporativo,pessoa apontando caneta para teclado (escritório)
+115,VAGlgs-jm80,04 Trabalho e Estudo,Escritório e Corporativo,pessoa com notebook e copo vermelho em coworking
+116,VAGlgsoSFHw,04 Trabalho e Estudo,Escritório e Corporativo,mãos com tablet mostrando gráficos
+117,VAGlgjqDF9w,04 Trabalho e Estudo,Escritório e Corporativo,pessoas trabalhando em notebooks em café
+118,VAGlk3y9YjE,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",mulher arrumando a cama
+119,VAGlkxyx-V8,03 Casa e Aconchego,"Flores, Arranjos e Vasos","vaso de terracota com galhos secos, quarto"
+120,VAGlk8M6U4Q,06 Pessoas,"Emoções, Cansaço e Introspecção","mulher sentada na cama, cabeça baixa (tristeza)"
+121,VAGlkyKSs-0,03 Casa e Aconchego,"Velas, Mantas e Momentos Cozy",vela acesa sobre cama com lençol azul
+122,VAGlk3C3SRg,12 Bem-estar e Autocuidado,,mão na borda da banheira (banho relaxante)
+123,VAGlk54br2k,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",quarto minimal com gato na cama e vela
+124,VAGlk1RcgbE,04 Trabalho e Estudo,Celular e Redes Sociais,mulher com celular e café na escada (social)
+125,VAGlkxqNt0A,07 Leitura,,mãos com livro e folha de outono na cama
+126,VAGlk8HEP3k,04 Trabalho e Estudo,Home Office e Notebook,mãos com anel digitando notebook
+127,VAGlk1iZ5zY,06 Pessoas,De Costas e Silhuetas,homem sentado na pedra olhando o mar ao entardecer
+128,VAGlk5OOiS8,04 Trabalho e Estudo,Home Office e Notebook,"mãos digitando teclado, jornal e caderno (vista de cima)"
+129,VAGlk4gWM08,04 Trabalho e Estudo,Home Office e Notebook,dedo no notebook com caneca ao fundo
+130,VAGlk_Gbs1o,06 Pessoas,"Emoções, Cansaço e Introspecção",mão pegando celular com despertador na cama (acordar)
+131,VAGlk8flAWg,04 Trabalho e Estudo,Escritório e Corporativo,mãos digitando teclado em escritório
+132,VAGlgmNQLIk,01 Natureza,Mar e Praia,praia com rochas e ondas turquesa
+133,VAGlgo80QnM,01 Natureza,Mar e Praia,"mar azul com rochas, dia nublado"
+134,VAGlkyetnuI,01 Natureza,Pôr do Sol e Céu,pôr do sol dourado sobre mar e montanhas
+135,VAGlk1eZxQc,04 Trabalho e Estudo,Escritório e Corporativo,pessoa analisando gráficos no notebook
+136,VAGlgkLHGuo,04 Trabalho e Estudo,"Escrita, Caderno e Planner",mão organizando post-its e caderno (planejamento)
+137,VAGlghXhHpc,04 Trabalho e Estudo,Escritório e Corporativo,duas mulheres caminhando com notebook (escritório)
+138,VAGlk_QuRtw,03 Casa e Aconchego,"Velas, Mantas e Momentos Cozy","gato na cama, vela e caneca de chocolate"
+139,VAGlk8N31N4,06 Pessoas,De Costas e Silhuetas,"homem sentado nas pedras do rio, de costas"
+140,VAGlk7dp85U,06 Pessoas,De Costas e Silhuetas,mulher de costas olhando o rio
+141,VAGlk-Sx2JA,03 Casa e Aconchego,"Velas, Mantas e Momentos Cozy","velas acesas, caneca e laranjas secas (inverno)"
+142,VAGlk5xEUn8,01 Natureza,Folhas e Flores Close,pétalas brancas sobre pedras
+143,VAGlk9pVda4,04 Trabalho e Estudo,Home Office e Notebook,"mãos digitando notebook, bule e caneca"
+144,VAGlk9U6hsg,04 Trabalho e Estudo,Home Office e Notebook,mãos digitando notebook (cabelo cacheado)
+145,VAGlk54WifE,04 Trabalho e Estudo,"Escrita, Caderno e Planner",mão com lápis sobre caderno (repetido)
+146,VAGlk1Sq5_o,06 Pessoas,De Costas e Silhuetas,silhueta de homem no topo da montanha ao entardecer
+147,VAGlk4l14mk,04 Trabalho e Estudo,Home Office e Notebook,mãos digitando notebook (branco)
+148,VAGlkxD1qEs,04 Trabalho e Estudo,Home Office e Notebook,mulher digitando notebook com gráficos impressos
+149,VAGlk3qySQg,04 Trabalho e Estudo,Celular e Redes Sociais,mãos com celular e cappuccino em café
+150,VAGlk_D4l0I,04 Trabalho e Estudo,Home Office e Notebook,"mãos digitando notebook, tulipa e café (de cima)"
+151,VAGlk-B7m_4,"11 Fundos, Texturas e Still Life",,sombra de mão e flor na parede
+152,VAGlkxOuBjg,06 Pessoas,"Emoções, Cansaço e Introspecção",mulher coberta na cama de suéter
+153,VAGlk-B6oC4,06 Pessoas,"Emoções, Cansaço e Introspecção",mulher bocejando apoiada na mesa (cansaço)
+154,VAGlk_JoSZY,"11 Fundos, Texturas e Still Life",,sombra de folhas em parede
+155,VAGlk-3mAsU,01 Natureza,"Campos, Trigo e Capim",capim na praia ao entardecer
+156,VAGlk2bUG50,01 Natureza,Pôr do Sol e Céu,pôr do sol rosado sobre mar com barco
+157,VAGmzU_SzQg,01 Natureza,Mar e Praia,água rasa transparente com reflexo de sol
+158,VAGmzS6EC9E,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",poltrona bouclé e vaso com eucalipto seco
+159,VAGmzXgcrVo,01 Natureza,Folhas e Flores Close,papoulas close
+160,VAGmzS88bAk,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",poltrona e mesa com café diante de janela com campo
+161,VAGmzSjO2fw,03 Casa e Aconchego,Chá e Café,mão pegando caneca sobre livros em cadeira
+162,VAGmzdm4XLY,06 Pessoas,De Costas e Silhuetas,homem de costas na pedra olhando mar ao entardecer
+163,VAGmzci8M0U,06 Pessoas,De Costas e Silhuetas,"pessoa de sobretudo de costas no píer, mar"
+164,VAGmzTV7NUY,03 Casa e Aconchego,Chá e Café,copo de café com sombra de folhas
+165,VAGmzaTKjlU,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",mulher de costas em estúdio com mesa antiga
+166,VAGmzWQFupo,07 Leitura,,mão folheando livro na luz
+167,VAGmzcVp6aM,03 Casa e Aconchego,"Flores, Arranjos e Vasos",mão na água com rosas brancas boiando
+168,VAGmzTR_u6o,01 Natureza,Pôr do Sol e Céu,pôr do sol dramático no mar com barco
+169,VAGmzTtL5Oo,04 Trabalho e Estudo,"Escrita, Caderno e Planner",mão escrevendo em caderno
+170,VAGmzo0K9Rg,07 Leitura,,mulher lendo livro em poltrona amarela
+171,VAGmzZVpFP4,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)","poltronas verdes e espelho, piso de madeira"
+172,VAGmzZPnv98,01 Natureza,"Lagos, Rios e Cachoeiras",lago com vitórias-régias e chuva
+173,VAGmzeTO9xA,12 Bem-estar e Autocuidado,,incenso com fumaça
+174,VAGmzcjNZzA,07 Leitura,,"livro aberto e óculos na mesa, janela"
+175,VAGmzckCn74,01 Natureza,"Florestas, Árvores e Trilhas",céu azul entre copas de árvores
+176,VAGmzZXtxRc,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",sala com poltrona cinza e quadro abstrato terracota
+177,VAGmzZpd_iI,01 Natureza,Mar e Praia,mar P&B com ondas chegando na areia
+178,VAGmzQHUUK8,01 Natureza,Mar e Praia,mar escuro à noite com luzes bokeh
+179,VAGmzRtKg28,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",mesa e cadeira com vaso de eucalipto
+180,VAGmze0J0h8,04 Trabalho e Estudo,Home Office e Notebook,dedo no notebook com caneca branca
+181,VAGmzXq4jnU,"11 Fundos, Texturas e Still Life",,still life de blocos de madeira em equilíbrio
+182,VAGmzZ1Gq4Y,01 Natureza,"Lagos, Rios e Cachoeiras",juncos no lago com flores brancas
+183,VAGmzfYG7m8,03 Casa e Aconchego,"Janelas, Cortinas e Luz Natural",janela com cortina de renda e cadeira
+184,VAGmzfxaUdk,01 Natureza,"Campos, Trigo e Capim",gramíneas close na luz verde
+185,VAGmzRJPesM,01 Natureza,Mar e Praia,praia ao entardecer com espuma
+186,VAGmzcIaYlw,01 Natureza,Mar e Praia,água dourada ondulando com reflexo
+187,VAGmzSntCms,03 Casa e Aconchego,"Flores, Arranjos e Vasos",arranjo de flores close desfocado
+188,VAGmzSZAUcc,04 Trabalho e Estudo,"Escrita, Caderno e Planner",mão escrevendo em caderno
+189,VAGmzb6lJxA,06 Pessoas,"Emoções, Cansaço e Introspecção",mulher com livro na cabeça (cansaço)
+190,VAGmzhkT5-c,01 Natureza,"Campos, Trigo e Capim",pessoa de roupa bege caminhando no trigo
+191,VAGmznnPJDA,02 Chuva e Clima,,chuva no vidro do carro com árvore
+192,VAGmszLWjes,01 Natureza,Folhas e Flores Close,flores brancas close em fundo escuro
+193,VAGmzsu9C3c,04 Trabalho e Estudo,Home Office e Notebook,mãos digitando no notebook
+194,VAGmzq2uB44,03 Casa e Aconchego,"Flores, Arranjos e Vasos",margaridas brancas com sombra na parede
+195,VAGmzm5IajI,01 Natureza,Pôr do Sol e Céu,pôr do sol no lago com galhos
+196,VAGmtXHgE1Y,06 Pessoas,De Costas e Silhuetas,silhueta de mulher no mar ao pôr do sol
+197,VAGmzpsR074,03 Casa e Aconchego,"Flores, Arranjos e Vasos",girassóis em vaso diante de parede branca
+198,VAGmzvk6gHg,06 Pessoas,De Costas e Silhuetas,mulher de costas diante de mural com mapa
+199,VAGmzfjQvd4,04 Trabalho e Estudo,"Escrita, Caderno e Planner",mãos escrevendo e estudando na mesa
+200,VAGmtQOxPmc,01 Natureza,"Campos, Trigo e Capim",flores do campo ao vento
+201,VAGmznQ4tWs,10 Tempo e Conceitos,,ampulheta sobre livros com galho florido
+202,VAGmzplvPZI,04 Trabalho e Estudo,Home Office e Notebook,mãos digitando no notebook com café (vista de cima)
+203,VAGmzvU41N0,04 Trabalho e Estudo,"Escrita, Caderno e Planner",estudando com pilha de livros na biblioteca
+204,VAGmzpOrxAw,01 Natureza,Mar e Praia,mar agitado com rochedo e céu nublado
+205,VAGmzmWbl9M,01 Natureza,Mar e Praia,beira-mar com ondas suaves na areia
+206,VAGmzuSUK88,04 Trabalho e Estudo,Home Office e Notebook,mesa com notebook diante de janela para floresta
+207,VAGmznhxGRo,03 Casa e Aconchego,"Velas, Mantas e Momentos Cozy","vela acesa, caneca e livros"
+208,VAGmzk6IeLE,03 Casa e Aconchego,"Janelas, Cortinas e Luz Natural",cortina voil branca ao vento com poltrona
+209,VAGmziJUHHI,06 Pessoas,Liberdade e Viagem,carro no alto do morro ao pôr do sol sobre o mar
+210,VAGmzldk4PY,01 Natureza,Folhas e Flores Close,flores brancas de macieira close
+211,VAGmziKXbMo,02 Chuva e Clima,,arco-íris sobre árvores
+212,VAGmzr23-5Q,03 Casa e Aconchego,"Flores, Arranjos e Vasos",narciso amarelo em vaso branco na mesa
+213,VAGmznmitS8,05 Terapia e Consultório,,terapeuta anotando em prancheta no sofá
+214,VAGmznibKEk,05 Terapia e Consultório,,mulher anotando em prancheta (consulta)
+215,VAGmzt-41r8,03 Casa e Aconchego,"Flores, Arranjos e Vasos",ateliê de flores e arranjos
+216,VAGmzmvSOjg,01 Natureza,"Florestas, Árvores e Trilhas",árvore florida contra céu azul
+217,VAGmzqc6vXI,07 Leitura,,livro aberto perto da janela
+218,VAGmzjnJ5vM,05 Terapia e Consultório,,mãos com prancheta e caneta (formulário)
+219,VAGmzsKtLNA,01 Natureza,Pôr do Sol e Céu,sol se pondo no mar com pedras
+220,VAGmzodMT1I,03 Casa e Aconchego,"Flores, Arranjos e Vasos",mão segurando flores contra parede com sombra
+221,VAGmzkCEjcI,"11 Fundos, Texturas e Still Life",,tecido terracota com sombra de janela
+222,VAGmzoMrIBk,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",aparador com luminária e cortina de linho
+223,VAGmzjNUnTI,"11 Fundos, Texturas e Still Life",,sombra de vaso com lírios em cortina
+224,VAGmzrqQfNw,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",sala com sofá bege e mesa de centro
+225,VAGmnnSQjxQ,"11 Fundos, Texturas e Still Life",,tecido branco esvoaçante
+226,VAGmzmsa_bg,03 Casa e Aconchego,Chá e Café,café sendo servido em xícara sobre livro
+227,VAGmzpZG8ro,05 Terapia e Consultório,,"sessão de terapia, terapeuta e paciente em poltronas"
+228,VAGmaS44aso,03 Casa e Aconchego,"Flores, Arranjos e Vasos",mão erguendo margaridas contra céu azul
+229,VAGmaYSt3Us,01 Natureza,Mar e Praia,pinha na areia com onda chegando
+230,VAGmaZtzZCE,"11 Fundos, Texturas e Still Life",,mão pegando uvas com luz e sombra
+231,VAGmaSDa9a4,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",mão tocando piano com vaso de flores
+232,VAGmaVQhgjU,01 Natureza,"Lagos, Rios e Cachoeiras",juncos no lago com gaivota
+233,VAGmaYRbd8Q,06 Pessoas,Liberdade e Viagem,mulher de vestido branco caminhando nas pedras da montanha
+234,VAGmaRugrlI,01 Natureza,Mar e Praia,mão tocando onda do mar no barco
+235,VAGmadhD09E,06 Pessoas,De Costas e Silhuetas,homem caminhando ao nascer do sol no lago
+236,VAGmaQOWRTg,01 Natureza,Pôr do Sol e Céu,pôr do sol no lago com nuvens e árvore
+237,VAGmaYZ0j74,01 Natureza,"Lagos, Rios e Cachoeiras",cachoeira com casal sentado na pedra
+238,VAGmaZaFGUo,01 Natureza,"Campos, Trigo e Capim",capim seco ao vento
+239,VAGmaWa5sI8,06 Pessoas,Mãos e Gestos,mão com borboleta perto do rosto
+240,VAGmaU1CYoo,06 Pessoas,Mãos e Gestos,mão de mulher apoiada em cadeira de palhinha
+241,VAGmabDi1CM,01 Natureza,"Lagos, Rios e Cachoeiras",barcos a remo no rio (vista aérea)
+242,VAGmaR6w_50,01 Natureza,"Campos, Trigo e Capim",mulher de costas caminhando no campo de capim
+243,VAGmadInkkc,06 Pessoas,Mãos e Gestos,pés na água
+244,VAGmadrgJFI,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",mão arrumando objetos decorativos (vaso e escultura)
+245,VAGmadBAC-U,08 Cidade e Urbano,,cidade ao longe com névoa sobre o rio
+246,VAGmaTYVxRY,06 Pessoas,De Costas e Silhuetas,silhueta de homem de costas olhando o mar ao entardecer
+247,VAGmaQKn1Zg,06 Pessoas,Liberdade e Viagem,mulher correndo na praia de sobretudo
+248,VAGmaXZJ5zk,03 Casa e Aconchego,Chá e Café,servindo chá em bule de cerâmica
+249,VAGmabtGHFA,06 Pessoas,"Casais, Família e Cuidado",mãos juntas na grama com margaridas
+250,VAGmaRgon8k,06 Pessoas,De Costas e Silhuetas,mulher de costas na varanda olhando montanhas
+251,VAGmaWe-x78,06 Pessoas,Mãos e Gestos,mão tocando tecido branco suave
+252,VAGmaclLzPs,03 Casa e Aconchego,"Flores, Arranjos e Vasos",mão tocando arranjo de flores secas
+253,VAGmaWm72HE,03 Casa e Aconchego,"Flores, Arranjos e Vasos",mão montando arranjo de flores brancas
+254,VAGmaQ-P08s,01 Natureza,Pôr do Sol e Céu,pôr do sol no mar com barco de pescador
+255,VAGmaYaXYHQ,03 Casa e Aconchego,"Flores, Arranjos e Vasos",eucalipto seco em vaso de vidro
+256,VAGmaQRVNJs,06 Pessoas,De Costas e Silhuetas,mulher sentada na praia ao pôr do sol
+257,VAGmaZVpkNs,01 Natureza,"Lagos, Rios e Cachoeiras",gaivotas voando sobre lago com montanhas
+258,VAGmad6tVYU,03 Casa e Aconchego,"Flores, Arranjos e Vasos",pétalas de rosas amarelas e brancas
+259,VAGmacmpAW0,12 Bem-estar e Autocuidado,,"ervas secas sobre livro aberto, cristal"
+260,VAGmaQmTcoY,12 Bem-estar e Autocuidado,,mulher de biquíni sentada na areia ao sol
+261,VAGmaSXSEhY,06 Pessoas,Mãos e Gestos,mão tocando água / superfície
+262,VAGmaW3Vw40,03 Casa e Aconchego,"Flores, Arranjos e Vasos",mão arrumando rosas brancas no vaso
+263,VAGmaRjECvE,01 Natureza,"Campos, Trigo e Capim",gramíneas douradas ao vento
+264,VAGmaVho5Bg,03 Casa e Aconchego,"Velas, Mantas e Momentos Cozy",vasos brancos com vela e capim seco
+265,VAGmadTx-4o,01 Natureza,"Campos, Trigo e Capim",mão passando por flores do campo com montanhas
+266,VAGmacx7r8E,03 Casa e Aconchego,"Velas, Mantas e Momentos Cozy",cama branca com taça e galho florido
+267,VAGmaWk_c68,07 Leitura,,mão folheando livros com café
+268,VAGmaQYh9h4,01 Natureza,"Campos, Trigo e Capim",mulher correndo no campo de trigo ao entardecer
+269,VAGmaQNRLhc,01 Natureza,"Campos, Trigo e Capim",mão tocando flores brancas no campo
+270,VAGmaYueVfk,01 Natureza,"Florestas, Árvores e Trilhas",mão tocando tronco de árvore
+271,VAGmaYwUv6g,01 Natureza,"Florestas, Árvores e Trilhas",bicicleta em jardim/trilha verde
+272,VAGmacG6Dcw,01 Natureza,Folhas e Flores Close,galhos com folhas novas na luz
+273,VAGmaRNSmxc,01 Natureza,"Lagos, Rios e Cachoeiras",lago cristalino com galho de pinheiro
+274,VAGmacqVgOU,03 Casa e Aconchego,Chá e Café,servindo chá com tulipas no vaso
+275,VAGmaYrQc6k,06 Pessoas,Mãos e Gestos,mãos entrelaçadas sobre joelho com luz e sombra
+276,VAGmaWqFPWo,01 Natureza,Pôr do Sol e Céu,mar calmo com pedras ao entardecer rosado
+277,VAGmaXiFnFI,03 Casa e Aconchego,"Flores, Arranjos e Vasos",mão colocando narciso em vaso de vidro
+278,VAGmaaAdk60,01 Natureza,Folhas e Flores Close,galhos com flores amarelas diante do mar
+279,VAGmafMZ-gQ,"11 Fundos, Texturas e Still Life",,"still life com magnólia, espelho e vela"
+280,VAGmaRQYqhw,01 Natureza,Folhas e Flores Close,mãos abrindo crisântemo branco
+281,VAGmaSrQ-_U,06 Pessoas,Mãos e Gestos,mãos com anéis sobre mesa escura
+282,VAGmaXmHI_8,01 Natureza,Pôr do Sol e Céu,gaivota em poste ao nascer do sol no mar
+283,VAGmaaMnYvQ,06 Pessoas,"Casais, Família e Cuidado",mulher estendendo roupas de bebê na árvore
+284,VAGmaWAcH3Q,03 Casa e Aconchego,"Flores, Arranjos e Vasos","gipsofila em vaso de vidro, fundo branco"
+285,VAGmac-6nlE,12 Bem-estar e Autocuidado,,"flor em redoma de vidro, alquimia/aromaterapia"
+286,VAGmab5TGM8,01 Natureza,Mar e Praia,água cristalina com rochas
+287,VAGmaVNsVQM,03 Casa e Aconchego,Chá e Café,mexendo chá em caneca azul
+288,VAGmacixvRA,06 Pessoas,Liberdade e Viagem,pés de sandália andando na areia
+289,VAGmafdUWjc,03 Casa e Aconchego,"Flores, Arranjos e Vasos",mão segurando narcisos brancos
+290,VAGmaUncgv4,01 Natureza,Mar e Praia,mar azul batendo nas rochas
+291,VAGmaUuJLrI,"11 Fundos, Texturas e Still Life",,sombra de galho florido em tecido
+292,VAGmacQa30M,01 Natureza,Mar e Praia,ondas quebrando ao entardecer
+293,VAGmaXJLH3Q,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",porta-joias de mármore e folhas secas
+294,VAGmbdKCE9Y,03 Casa e Aconchego,"Flores, Arranjos e Vasos",mulher arrumando buquê em vaso âmbar
+295,VAGmaYtFeAA,01 Natureza,Folhas e Flores Close,flores de macieira rosadas close
+296,VAGmaU067CY,03 Casa e Aconchego,"Flores, Arranjos e Vasos",arranjo com cardos azuis e flores brancas
+297,VAGmaVTyQfE,01 Natureza,Folhas e Flores Close,"flores brancas em haste, fundo verde"
+298,VAGmaf2SJbU,"11 Fundos, Texturas e Still Life",,sombra de mão segurando flor na parede
+299,VAGmabF3VxU,04 Trabalho e Estudo,"Escrita, Caderno e Planner",caderno e chá na janela com luz
+300,VAGmaWzdd1Y,"11 Fundos, Texturas e Still Life",,still life com romã e copo de cerâmica
+301,VAGmaemYe8Y,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",plantas em vasos na mesa lateral da sala
+302,VAGmaf10f4k,01 Natureza,Pôr do Sol e Céu,pôr do sol sobre rio na cidade
+303,VAGmadA6TQA,01 Natureza,Mar e Praia,costa rochosa com flores amarelas
+304,VAGmacI1rkM,01 Natureza,"Campos, Trigo e Capim",trigo com papoulas vermelhas
+305,VAGmabBdfYI,12 Bem-estar e Autocuidado,,água sendo servida em copo de vidro
+306,VAGmaQDZmVw,"11 Fundos, Texturas e Still Life",,pena rosa e copo d'água
+307,VAGmaQ55rF8,"11 Fundos, Texturas e Still Life",,"frutas (toranja, uvas, peras) sobre tecido branco"
+308,VAGmaQVCk1w,06 Pessoas,Mãos e Gestos,mãos com luz de arco-íris na parede
+309,VAGmbR6_6jY,"11 Fundos, Texturas e Still Life",,porta-pincéis e cartão em branco (mockup)
+310,VAGmabdpW7g,03 Casa e Aconchego,"Velas, Mantas e Momentos Cozy",cama com lençóis de linho cinza e bandeja
+311,VAGmaUBvaMQ,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",mulher caminhando em sala com cadeiras de design
+312,VAGmaRbkioU,01 Natureza,Pôr do Sol e Céu,pessoas no mar ao pôr do sol
+313,VAGqLrj5lxM,06 Pessoas,Liberdade e Viagem,mulher caminhando em passarela de madeira à beira-mar
+314,VAGqLqS16XQ,07 Leitura,,mãos segurando livro aberto
+315,VAGqLpoy25w,04 Trabalho e Estudo,Home Office e Notebook,mãos digitando no notebook com café no café
+316,VAGqLgGyLNE,06 Pessoas,Liberdade e Viagem,mulher no carro conversível com braço erguido
+317,VAGqLrmgWAM,06 Pessoas,Mãos e Gestos,mão segurando flor de jasmim-manga
+318,VAGqLgK3lUM,06 Pessoas,De Costas e Silhuetas,silhueta de mulher com cachorro na praia ao pôr do sol
+319,VAGqLht9nIA,01 Natureza,"Campos, Trigo e Capim",mão passando pelo trigo dourado
+320,VAGqLuahshQ,01 Natureza,Mar e Praia,praia com coqueiros e céu nublado
+321,VAGqLlyEhq8,01 Natureza,Pôr do Sol e Céu,céu vermelho de pôr do sol na praia
+322,VAGqLnykgKc,01 Natureza,Outono,rua com folhas de outono e catedral
+323,VAGqLs6KK5Y,01 Natureza,Pôr do Sol e Céu,crepúsculo laranja com pinheiros e lago
+324,VAGqLr3Mgek,06 Pessoas,Liberdade e Viagem,mulher de braço erguido no penhasco diante do mar
+325,VAGqLsRlL6w,02 Chuva e Clima,,chuva no vidro da janela com palmeira
+326,VAGqLuUcsfg,01 Natureza,Mar e Praia,penhasco sobre o mar ao entardecer (aéreo)
+327,VAGqLhSq61s,01 Natureza,Pôr do Sol e Céu,pássaros voando no céu do pôr do sol sobre o mar
+328,VAGqLp9vSN8,06 Pessoas,De Costas e Silhuetas,mulher de rabo de cavalo de costas olhando rio
+329,VAGqLoDI674,04 Trabalho e Estudo,"Escrita, Caderno e Planner",mulher escrevendo na agenda na mesa com teclado
+330,VAGqLu7VwvU,06 Pessoas,Mãos e Gestos,mãos segurando ramo de gipsofila com café
+331,VAGqLuHHAXU,01 Natureza,Mar e Praia,ondas batendo em rocha branca
+332,VAGqLvBSnns,01 Natureza,"Lagos, Rios e Cachoeiras",rio na floresta com pedras
+333,VAGqLv7wfOM,01 Natureza,Pôr do Sol e Céu,céu vermelho com ponte estaiada na cidade
+334,VAGqLs1DNDk,03 Casa e Aconchego,"Flores, Arranjos e Vasos",mão colocando capim-dos-pampas em vaso
+335,VAGqLsmzrW4,01 Natureza,Pôr do Sol e Céu,pôr do sol visto do barco com gaivota
+336,VAGqLgGIoGE,01 Natureza,"Lagos, Rios e Cachoeiras",montanha em silhueta no lago ao anoitecer
+337,VAGqLrzZhO8,01 Natureza,Outono,rosas brancas com árvores de outono
+338,VAGqLnHfT0g,08 Cidade e Urbano,,cidade com avenida ao amanhecer
+339,VAGqLvKvYJU,04 Trabalho e Estudo,Home Office e Notebook,notebook e café em mesa branca com luz
+340,VAGqLgD2h1I,01 Natureza,Pôr do Sol e Céu,capim alto contra o sol se pondo no mar
+341,VAGqLqJm0Mc,03 Casa e Aconchego,"Janelas, Cortinas e Luz Natural",cortina branca e varanda com vista para o mar
+342,VAGqLhljvgc,04 Trabalho e Estudo,"Escrita, Caderno e Planner",mão escrevendo em caderno com xícara de chá
+343,VAGqLhdeuEY,01 Natureza,"Campos, Trigo e Capim",mão passando pelo campo de lavanda
+344,VAGqLtjYDmY,03 Casa e Aconchego,"Flores, Arranjos e Vasos",mão segurando peônia branca perto da cortina
+345,VAGqLoCpi8E,04 Trabalho e Estudo,Home Office e Notebook,mulher com notebook no colo na cadeira
+346,VAGqLiJr3pU,02 Chuva e Clima,,caneca e livros na janela com chuva
+347,VAGqLm_UYnA,04 Trabalho e Estudo,"Escrita, Caderno e Planner","mesa com caderno, caneta e copo d'água"
+348,VAGqLuw6TMI,"11 Fundos, Texturas e Still Life",,tecido bege esvoaçante
+349,VAGqLvdyoQQ,12 Bem-estar e Autocuidado,,tapete de yoga e halter diante de janela
+350,VAGqLtU5YAE,03 Casa e Aconchego,"Janelas, Cortinas e Luz Natural",luz do sol atravessando cortina
+351,VAGqLjtaJOs,01 Natureza,Folhas e Flores Close,dente-de-leão contra luz
+352,VAGqLkWIXm4,01 Natureza,Pôr do Sol e Céu,pôr do sol na praia com prédios
+353,VAGqLibCoQI,04 Trabalho e Estudo,"Escrita, Caderno e Planner","orquídea, caderno e café com sombra"
+354,VAGqLr2MjwU,04 Trabalho e Estudo,"Escrita, Caderno e Planner",caderno e caneta dourada com sombra de folhas
+355,VAGqLiSe0kM,03 Casa e Aconchego,"Janelas, Cortinas e Luz Natural",cortina com luz e sombra de árvore
+356,VAGqLh9S5k0,07 Leitura,,mulher lendo livro diante de parede com sol
+357,VAGqLp2L7J0,"11 Fundos, Texturas e Still Life",,ramos de eucalipto diante de cortina
+358,VAG2vXya_sE,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",costela-de-adão em vaso no piso de madeira
+359,VAEW1hw1uUU,01 Natureza,Folhas e Flores Close,eucalipto close com luz natural
+360,VAEVxKp1LpA,04 Trabalho e Estudo,"Escrita, Caderno e Planner",mão escrevendo em bloco com copo térmico
+361,VAENSpLaMBA,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",mesa de jantar de madeira com cortina e vaso
+362,VAG-DwZL5Ds,03 Casa e Aconchego,Chá e Café,café sendo servido na xícara (vista de cima)
+363,VAG_1auMtSU,03 Casa e Aconchego,Chá e Café,café sendo servido close
+364,VAHGyDkY0Pc,03 Casa e Aconchego,Chá e Café,grãos de café caindo
+365,VAFoWN-SFkI,02 Chuva e Clima,,chá na janela com chuva na cidade
+366,VAG_ecBohTo,03 Casa e Aconchego,Chá e Café,mexendo café com leite em xícara
+367,VAE7moJWG7s,03 Casa e Aconchego,Chá e Café,café sobre livro com folhas de oliveira
+368,VAHFO841GLI,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",poltrona e lareira de tijolos brancos
+369,VAEZoLdfUuE,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)","sala com TV, capim-dos-pampas e almofada"
+370,VAEjCuIh_iw,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",cozinha com tábuas e plantas
+371,VAGmHHfx5ek,04 Trabalho e Estudo,Escritório e Corporativo,escritório com mesas e luminárias
+372,VAHMjzx1ic0,01 Natureza,"Florestas, Árvores e Trilhas",copa de árvore contra céu azul
+373,VAHFyZ-xH6c,01 Natureza,"Florestas, Árvores e Trilhas",floresta de pinheiros com luz do sol
+374,VAEfVeC9VK8,01 Natureza,Folhas e Flores Close,samambaia diante de cachoeira
+375,VAEiytGD1W0,01 Natureza,"Florestas, Árvores e Trilhas",floresta verde com samambaias
+376,VAHFUheKbXM,03 Casa e Aconchego,"Janelas, Cortinas e Luz Natural",cortinas voil com luz dourada na sala
+377,VAGwU4dHt94,03 Casa e Aconchego,"Velas, Mantas e Momentos Cozy",vela acesa e livro aberto
+378,VAHC_hEcwig,03 Casa e Aconchego,"Janelas, Cortinas e Luz Natural",janela aberta com cortina ao vento e jardim
+379,VAGz1xs9f-4,04 Trabalho e Estudo,Home Office e Notebook,mulher no home office com café (vista de cima)
+380,VAEQPaPy87Q,04 Trabalho e Estudo,Home Office e Notebook,"mesa com notebook, óculos, café e eucalipto"
+381,VAEWQTfg_LQ,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",vaso escultural com folha seca e revista
+382,VAG7ivu-YRQ,06 Pessoas,Liberdade e Viagem,estrada entre pinheiros vista do carro
+383,VAGz1w4fOI0,04 Trabalho e Estudo,"Escrita, Caderno e Planner",mão com caneta em planner e cappuccino
+384,VAG6k4CNnic,01 Natureza,Mar e Praia,ondas ao entardecer na praia
+385,VAG4-sXYriQ,01 Natureza,Pôr do Sol e Céu,gaivotas no céu do entardecer
+386,VAGz1yy5Xn0,03 Casa e Aconchego,"Velas, Mantas e Momentos Cozy",mãos arrumando travesseiro na cama
+387,VAG-hi0rlPY,05 Terapia e Consultório,,consulta com mãos e caneta e papel
+388,VAGzEecV9-0,04 Trabalho e Estudo,Home Office e Notebook,notebook e copo d'água com luz da persiana
+389,VAHENlEnPZw,02 Chuva e Clima,,chuva noturna com bokeh
+390,VAGoJQRVPBI,06 Pessoas,De Costas e Silhuetas,silhueta de homem no capim ao pôr do sol
+391,VAGCJHheHEI,03 Casa e Aconchego,"Velas, Mantas e Momentos Cozy","vela, taça de vinho e manta no sofá"
+392,VAGZbuvUAvg,03 Casa e Aconchego,"Flores, Arranjos e Vasos",mãos segurando buquê seco rosa com sombra
+393,VAEcxizsads,04 Trabalho e Estudo,Home Office e Notebook,"notebook, café e caderno com tulipa (vista de cima)"
+394,VAGz17Vw3LE,03 Casa e Aconchego,Chá e Café,café gelado sendo servido
+395,VAGeQMJAwys,07 Leitura,,livro aberto com flores e sobremesa
+396,VAGDSR060_U,03 Casa e Aconchego,"Janelas, Cortinas e Luz Natural","janela grande com plantas e cortina, névoa"
+397,VAERg_EbarY,03 Casa e Aconchego,"Velas, Mantas e Momentos Cozy",velas acesas com luzes de Natal
+398,VAGfwl748k8,02 Chuva e Clima,,galho de pinheiro com gotas de chuva
+399,VAGeQHCMvuI,02 Chuva e Clima,,chuva no vidro do carro ao entardecer
+400,VAECE8SbTNA,03 Casa e Aconchego,"Flores, Arranjos e Vasos",copo-de-leite em vaso de vidro perto da cortina
+401,VAF6HBo3T8E,08 Cidade e Urbano,,cidade com avenida e trânsito ao pôr do sol
+402,VAFas51hPg8,04 Trabalho e Estudo,Escritório e Corporativo,homem de camisa de costas olhando cidade pela janela do escritório
+403,VAHLEVyCOkc,08 Cidade e Urbano,,rua da cidade com prédios e carros de dia
+404,VAG-K4nDS14,08 Cidade e Urbano,,cidade iluminada à noite vista do alto
+405,VAHSZS-UA8o,02 Chuva e Clima,,chuva na rua molhada ao anoitecer
+406,VAHYFnNCe6Q,01 Natureza,Outono,parque ao entardecer com folhas de outono
+407,VAHJXUl5070,01 Natureza,Mar e Praia,mulher de chapéu caminhando na areia deixando pegadas
+408,VAG3bQon5ow,06 Pessoas,De Costas e Silhuetas,pessoa no fim da passarela de madeira no lago ao entardecer
+409,VAGHr4QdpIY,01 Natureza,"Florestas, Árvores e Trilhas",trilha asfaltada na floresta
+410,VAG70x1TGow,06 Pessoas,De Costas e Silhuetas,silhueta de pessoa de costas contra o sol no lago
+411,VAHABlSRTrE,01 Natureza,"Campos, Trigo e Capim",juncos dourados com água ao entardecer
+412,VAD_UCT71Ig,06 Pessoas,"Emoções, Cansaço e Introspecção",rosto de mulher sob folha de planta (introspecção)
+413,VAGz1n6GidY,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",mesa de jardinagem com vasos e pá
+414,VAG7ydB4770,01 Natureza,Folhas e Flores Close,mão tocando folhas grandes verdes
+415,VAGiPZ3K2Y8,01 Natureza,"Campos, Trigo e Capim",planta silvestre florida ao sol
+416,VAHSjTik3DQ,03 Casa e Aconchego,"Janelas, Cortinas e Luz Natural",silhueta de plantas diante de cortina
+417,VAFMQrahy8Y,12 Bem-estar e Autocuidado,,copo de vidro canelado com água
+418,VAGIa6SK7I4,02 Chuva e Clima,,chuva no vidro da janela com palmeira e manta
+419,VAG-Mj4Q6wg,02 Chuva e Clima,,chuva noturna em folhagem
+420,VAHD0blqa3k,02 Chuva e Clima,,gotas de chuva em poça
+421,VAHGqODyEqI,02 Chuva e Clima,,chuva caindo em folhas verdes
+422,VAGbE-zGmeg,07 Leitura,,mulher lendo com chá e narcisos
+423,VAEZoIWJ5VE,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",sala com poltrona cinza e escada de vidro
+424,VAEZoEGHtr4,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",cadeira de design e mesa
+425,VAGZdMfu5iM,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",poltrona verde diante de cortina
+426,VAHFJZoFvfw,09 Móveis e Cenários 3D,,poltrona laranja com sombra de folhas (3D)
+427,VAGO07YyhiU,09 Móveis e Cenários 3D,,duas poltronas cinza com sombra de palmeira (3D)
+428,VAHEd1zgZuk,09 Móveis e Cenários 3D,,poltrona azul de madeira com manta (3D)
+429,VAHEd-Ru9DM,09 Móveis e Cenários 3D,,poltrona verde de vime com almofada (3D)
+430,VAGv1TNTQPc,09 Móveis e Cenários 3D,,"poltrona marrom e mesinha, parede clara (3D)"
+431,VAGv1fzF-4U,09 Móveis e Cenários 3D,,poltrona de madeira cinza e mesinha (3D)
+432,VAGv1cOdRgM,09 Móveis e Cenários 3D,,poltrona cinza e mesinha com sombra (3D)
+433,VAGv1ZpNE1k,09 Móveis e Cenários 3D,,poltrona com almofada azul e velas (3D)
+434,VAGw6_KyOhc,09 Móveis e Cenários 3D,,poltrona de madeira clara e mesinha (3D)
+435,VAGw6_jXth8,09 Móveis e Cenários 3D,,"poltrona de couro com planta, parede de concreto (3D)"
+436,VAGw6yMDzRY,09 Móveis e Cenários 3D,,sofá cinza e mesa de centro com sombra (3D)
+437,VAGw62EEvSk,09 Móveis e Cenários 3D,,poltrona verde em parede de tijolos (3D)
+438,VAGw64rQMgc,09 Móveis e Cenários 3D,,poltrona caramelo com mesinha verde (3D)
+439,VAHLKdCwFHw,06 Pessoas,De Costas e Silhuetas,pés descalços no chão com luz e sombra
+440,VAHFJd3SFHc,09 Móveis e Cenários 3D,,cadeira de madeira estofada (3D)
+441,VAHFJf-9Wcw,09 Móveis e Cenários 3D,,cadeira de madeira vista de cima (3D)
+442,VAHFJaam2DU,09 Móveis e Cenários 3D,,cadeira de madeira com sombra de folhas (3D)
+443,VAEWk22ID0o,05 Terapia e Consultório,,mulher sentada ajeitando o cabelo (consulta)
+444,VAEZlLxGaFI,05 Terapia e Consultório,,"sessão de terapia, mãos e anotações"
+445,VAHJjunUDgc,06 Pessoas,Mãos e Gestos,mãos entrelaçadas com luz da janela
+446,VAHJjcuI8XU,06 Pessoas,Mãos e Gestos,mãos entrelaçadas close
+447,VAECCtcN1qk,05 Terapia e Consultório,,terapeuta de pernas cruzadas na poltrona
+448,VAHCgWk2mDU,05 Terapia e Consultório,,sessão de terapia com caneca no sofá
+449,VAFR4GOftc8,05 Terapia e Consultório,,mulher de terno sentada (sessão)
+450,VAGZcAIrJAg,05 Terapia e Consultório,,terapeuta anotando em caderno
+451,VAHCemhRD38,04 Trabalho e Estudo,"Escrita, Caderno e Planner",caneta tinteiro escrevendo close
+452,VAHCgcUDZ7Y,05 Terapia e Consultório,,terapeuta com livro na poltrona bouclé
+453,VAHAxEppBTQ,05 Terapia e Consultório,,"terapeuta anotando em prancheta, paciente ao fundo"
+454,VAHAhWrSDzM,05 Terapia e Consultório,,anotação em prancheta desfocada na sessão
+455,VAGmHCjDsds,04 Trabalho e Estudo,Home Office e Notebook,mão pegando caneca na mesa com notebook e celular
+456,VAHEd4KEVXQ,09 Móveis e Cenários 3D,,"poltrona azul de madeira com manta, vista de cima (3D)"
+457,VAHEdxDsKd4,09 Móveis e Cenários 3D,,"poltrona azul de madeira, vista lateral (3D)"
+458,VAHLKAbAUuY,04 Trabalho e Estudo,"Escrita, Caderno e Planner",caderninho e caneta sobre o sofá
+459,VAEoRCcT4Ds,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)","sala com sofá bege, mesinha dourada e tapete"
+460,VAEoRFcX3oU,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",sala vazia com parede boiserie e piso de madeira
+461,VAGkUIP6AcQ,07 Leitura,,mulher lendo livro diante de parede com sol
+462,VAHCcAWXI2w,03 Casa e Aconchego,"Flores, Arranjos e Vasos",hortênsia branca em vaso na mesinha
+463,VAEazQvZGP0,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",vaso de cerâmica e sofá cinza
+464,VAHECzfT2X4,05 Terapia e Consultório,,paciente sentado na poltrona de couro
+465,VAG92-l_uV8,07 Leitura,,livro aberto no muro diante do mar
+466,VAHBXRoX59I,01 Natureza,Pôr do Sol e Céu,balanço na varanda ao pôr do sol
+467,VAEaZhLKIM4,04 Trabalho e Estudo,"Escrita, Caderno e Planner",mão escrevendo caligrafia
+468,VAGZbmHNk5c,03 Casa e Aconchego,"Flores, Arranjos e Vasos",mão segurando buquê seco com sombra na parede
+469,VAEd12EZKXA,03 Casa e Aconchego,"Flores, Arranjos e Vasos",eucalipto em vaso de cerâmica redondo
+470,VAGZdIqnTxE,03 Casa e Aconchego,"Flores, Arranjos e Vasos",vaso de rosto com capim seco e eucalipto
+471,VAGmHFStcSc,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",mão tocando cadeira estofada na sala de jantar
+472,VAGqAg3J5xI,09 Móveis e Cenários 3D,,poltrona caramelo com sombra de folhas (3D)
+473,VAFWlviwza4,01 Natureza,Outono,casal de idosos caminhando no parque de outono
+474,VAFWlvhu4wA,01 Natureza,Outono,casal no banco diante do lago no outono
+475,VAHTh6YZFu0,06 Pessoas,"Casais, Família e Cuidado",mãos segurando mão de idoso (cuidado)
+476,VAHFnW9cLic,10 Tempo e Conceitos,,ampulheta close fundo escuro
+477,VAEdC2lZ2iA,10 Tempo e Conceitos,,ampulheta com folhas secas e maçã
+478,VAGplhMnyuw,10 Tempo e Conceitos,,ampulheta dourada fundo preto
+479,VAGW_MaTp2E,06 Pessoas,Liberdade e Viagem,mão para fora da janela do carro
+480,VAGbBxQyAk4,06 Pessoas,"Casais, Família e Cuidado",casal de mãos dadas na neve
+481,VAGz1jYvpWs,04 Trabalho e Estudo,"Escrita, Caderno e Planner",mão escrevendo a lápis na mesa
+482,VAG476gPOMM,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",poltrona e costela-de-adão com luz dourada
+483,VAGZdMfu5iM,03 Casa e Aconchego,"Ambientes (Sala, Quarto, Cozinha)",poltrona verde diante de cortina
+484,VAGhotwQLtY,"11 Fundos, Texturas e Still Life",,ramos de eucalipto com luz e sombra
